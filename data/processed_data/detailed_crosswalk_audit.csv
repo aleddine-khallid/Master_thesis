@@ -1,0 +1,822 @@
+isco08_code,ISCO-08 Title EN,soc_code,2010 SOC Title,Occupation Title,Language Modeling AIOE,isco_major_group
+1112,Senior government officials,11-1011,Chief Executives,Chief Executives,0.8367724867724868,1
+1112,Senior government officials,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1112,Senior government officials,11-9161,Emergency Management Directors,Emergency Management Directors,0.7288359788359787,1
+1113,Traditional chiefs and heads of villages,11-1011,Chief Executives,Chief Executives,0.8367724867724868,1
+1114,Senior officials of special-interest organizations,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1114,Senior officials of special-interest organizations,11-2031,Public Relations and Fundraising Managers,Public Relations and Fundraising Managers,0.8563492063492063,1
+1114,Senior officials of special-interest organizations,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1120,Managing directors and chief executives,11-1011,Chief Executives,Chief Executives,0.8367724867724868,1
+1120,Managing directors and chief executives,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1211,Finance managers,11-3031,Financial Managers,Financial Managers,0.8330687830687831,1
+1212,Human resource managers,11-3111,Compensation and Benefits Managers,Compensation and Benefits Managers,0.8785714285714286,1
+1212,Human resource managers,11-3121,Human Resources Managers,Human Resources Managers,0.85,1
+1212,Human resource managers,11-3131,Training and Development Managers,Training and Development Managers,0.844179894179894,1
+1213,Policy and planning managers,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1219,Business services and administration managers not elsewhere classified,11-2031,Public Relations and Fundraising Managers,Public Relations and Fundraising Managers,0.8563492063492063,1
+1219,Business services and administration managers not elsewhere classified,11-3011,Administrative Services Managers,Administrative Services Managers,0.6936507936507936,1
+1219,Business services and administration managers not elsewhere classified,11-3061,Purchasing Managers,Purchasing Managers,0.8589947089947089,1
+1219,Business services and administration managers not elsewhere classified,11-9061,Funeral Service Managers,Funeral Service Managers,0.5796296296296297,1
+1219,Business services and administration managers not elsewhere classified,11-9131,Postmasters and Mail Superintendents,Postmasters and Mail Superintendents,0.7195767195767195,1
+1219,Business services and administration managers not elsewhere classified,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1221,Sales and marketing managers,11-2021,Marketing Managers,Marketing Managers,0.8089947089947089,1
+1221,Sales and marketing managers,11-2022,Sales Managers,Sales Managers,0.8328042328042328,1
+1222,Advertising and public relations managers,11-2011,Advertising and Promotions Managers,Advertising and Promotions Managers,0.8124338624338624,1
+1222,Advertising and public relations managers,11-2031,Public Relations and Fundraising Managers,Public Relations and Fundraising Managers,0.8563492063492063,1
+1223,Research and development managers,11-9041,Architectural and Engineering Managers,Architectural and Engineering Managers,0.6616402116402117,1
+1223,Research and development managers,11-9121,Natural Sciences Managers,Natural Sciences Managers,0.8187830687830688,1
+1311,Agricultural and forestry production managers,11-9013,"Farmers, Ranchers, and Other Agricultural Managers","Farmers, Ranchers, and Other Agricultural Managers",0.4486772486772487,1
+1312,Aquaculture and fisheries production managers,11-9013,"Farmers, Ranchers, and Other Agricultural Managers","Farmers, Ranchers, and Other Agricultural Managers",0.4486772486772487,1
+1321,Manufacturing managers,11-3051,Industrial Production Managers,Industrial Production Managers,0.5841269841269842,1
+1322,Mining managers,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1323,Construction managers,11-9021,Construction Managers,Construction Managers,0.6587301587301587,1
+1324,"Supply, distribution and related managers",11-3071,"Transportation, Storage, and Distribution Managers","Transportation, Storage, and Distribution Managers",0.7298941798941799,1
+1330,Information and communications technology service managers,11-3021,Computer and Information Systems Managers,Computer and Information Systems Managers,0.7404761904761904,1
+1341,Child care services managers,11-9031,"Education Administrators, Preschool and Childcare Center/Program","Education Administrators, Preschool and Childcare Center/Program",0.7462962962962963,1
+1342,Health services managers,11-9111,Medical and Health Services Managers,Medical and Health Services Managers,0.8383597883597883,1
+1343,Aged care services managers,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1343,Aged care services managers,11-9111,Medical and Health Services Managers,Medical and Health Services Managers,0.8383597883597883,1
+1344,Social welfare managers,11-9151,Social and Community Service Managers,Social and Community Service Managers,0.8145502645502646,1
+1345,Education managers,11-9032,"Education Administrators, Elementary and Secondary School","Education Administrators, Elementary and Secondary School",0.8076719576719577,1
+1345,Education managers,11-9033,"Education Administrators, Postsecondary","Education Administrators, Postsecondary",0.8992063492063491,1
+1345,Education managers,11-9039,"Education Administrators, All Other","Education Administrators, All Other",0.6566137566137566,1
+1346,Financial and insurance services branch managers,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1346,Financial and insurance services branch managers,11-3031,Financial Managers,Financial Managers,0.8330687830687831,1
+1349,Professional services managers not elsewhere classified,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1411,Hotel managers,11-9081,Lodging Managers,Lodging Managers,0.6132275132275132,1
+1412,Restaurant managers,11-9051,Food Service Managers,Food Service Managers,0.5066137566137566,1
+1420,Retail and wholesale trade managers,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,1
+1431,"Sports, recreation and cultural centre managers",11-9071,Gaming Managers,Gaming Managers,0.6806878306878307,1
+1431,"Sports, recreation and cultural centre managers",11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+1439,Services managers not elsewhere classified,11-9199,"Managers, All Other","Managers, All Other",0.7312169312169312,1
+2111,Physicists and astronomers,19-2011,Astronomers,Astronomers,0.7642857142857143,2
+2111,Physicists and astronomers,19-2012,Physicists,Physicists,0.7806878306878307,2
+2112,Meteorologists,19-2021,Atmospheric and Space Scientists,Atmospheric and Space Scientists,0.8235449735449735,2
+2113,Chemists,19-2031,Chemists,Chemists,0.5769841269841269,2
+2113,Chemists,19-2032,Materials Scientists,Materials Scientists,0.6984126984126984,2
+2114,Geologists and geophysicists,19-2042,"Geoscientists, Except Hydrologists and Geographers","Geoscientists, Except Hydrologists and Geographers",0.6404761904761905,2
+2114,Geologists and geophysicists,19-2043,Hydrologist,Hydrologists,0.6373015873015874,2
+2120,"Mathematicians, actuaries and statisticians",15-2011,Actuaries,Actuaries,0.807936507936508,2
+2120,"Mathematicians, actuaries and statisticians",15-2021,Mathematicians,Mathematicians,0.7989417989417988,2
+2120,"Mathematicians, actuaries and statisticians",15-2031,Operations Research Analysts,Operations Research Analysts,0.816931216931217,2
+2120,"Mathematicians, actuaries and statisticians",15-2041,Statisticians,Statisticians,0.8193121693121693,2
+2120,"Mathematicians, actuaries and statisticians",19-3022,Survey Researchers,Survey Researchers,0.8288359788359788,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1011,Animal Scientists,Animal Scientists,0.7476190476190476,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1012,Food Scientists and Technologists,Food Scientists and Technologists,0.642063492063492,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1013,Soil and Plant Scientists,Soil and Plant Scientists,0.6515873015873016,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1021,Biochemists and Biophysicists,Biochemists and Biophysicists,0.7005291005291006,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1022,Microbiologists,Microbiologists,0.6158730158730159,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1023,Zoologists and Wildlife Biologists,Zoologists and Wildlife Biologists,0.5769841269841269,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1029,"Biological Scientists, All Other","Biological Scientists, All Other",0.7240740740740741,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1041,Epidemiologists,Epidemiologists,0.8301587301587301,2
+2131,"Biologists, botanists, zoologists and related professionals",19-1042,"Medical Scientists, Except Epidemiologists","Medical Scientists, Except Epidemiologists",0.7992063492063491,2
+2132,"Farming, forestry and fisheries advisers",19-1013,Soil and Plant Scientists,Soil and Plant Scientists,0.6515873015873016,2
+2132,"Farming, forestry and fisheries advisers",19-1032,Foresters,Foresters,0.43862433862433864,2
+2132,"Farming, forestry and fisheries advisers",25-9021,Farm and Home Management Advisors,Farm and Home Management Advisors,0.6978835978835978,2
+2141,Industrial and production engineers,17-2112,Industrial Engineers,Industrial Engineers,0.7298941798941799,2
+2143,Environmental engineers,17-2081,Environmental Engineers,Environmental Engineers,0.7666666666666666,2
+2144,Mechanical engineers,17-2021,Agricultural Engineers,Agricultural Engineers,0.673015873015873,2
+2145,Chemical engineers,17-2041,Chemical Engineers,Chemical Engineers,0.7301587301587301,2
+2146,"Mining engineers, metallurgists and related professionals",17-2131,Materials Engineers,Materials Engineers,0.6968253968253969,2
+2146,"Mining engineers, metallurgists and related professionals",17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers","Mining and Geological Engineers, Including Mining Safety Engineers",0.7632275132275131,2
+2146,"Mining engineers, metallurgists and related professionals",17-2171,Petroleum Engineers,Petroleum Engineers,0.7637566137566137,2
+2146,"Mining engineers, metallurgists and related professionals",19-2032,Materials Scientists,Materials Scientists,0.6984126984126984,2
+2149,Engineering professionals not elsewhere classified,17-2031,Biomedical Engineers,Biomedical Engineers,0.6846560846560846,2
+2149,Engineering professionals not elsewhere classified,17-2131,Materials Engineers,Materials Engineers,0.6968253968253969,2
+2149,Engineering professionals not elsewhere classified,17-2161,Nuclear Engineers,Nuclear Engineers,0.7743386243386243,2
+2149,Engineering professionals not elsewhere classified,17-2199,"Engineers, All Other","Engineers, All Other",0.6441798941798942,2
+2151,Electrical engineers,17-2071,Electrical Engineers,Electrical Engineers,0.7288359788359787,2
+2153,Telecommunications engineers,17-2072,"Electronics Engineers, Except Computer","Electronics Engineers, Except Computer",0.6113756613756614,2
+2161,Building architects,17-1011,"Architects, Except Landscape and Naval","Architects, Except Landscape and Naval",0.6518518518518518,2
+2162,Landscape architects,17-1012,Landscape Architects,Landscape Architects,0.7116402116402116,2
+2163,Product and garment designers,27-1021,Commercial and Industrial Designers,Commercial and Industrial Designers,0.6386243386243386,2
+2164,Town and traffic planners,19-3051,Urban and Regional Planners,Urban and Regional Planners,0.7748677248677249,2
+2165,Cartographers and surveyors,17-1021,Cartographers and Photogrammetrists,Cartographers and Photogrammetrists,0.6153439153439153,2
+2165,Cartographers and surveyors,17-1022,Surveyors,Surveyors,0.45846560846560847,2
+2166,Graphic and multimedia designers,27-1024,Graphic Designers,Graphic Designers,0.62989417989418,2
+2211,Generalist medical practitioners ,29-1062,Family and General Practitioners,Family and General Practitioners,0.7854497354497355,2
+2211,Generalist medical practitioners ,29-1065,"Pediatricians, General","Pediatricians, General",0.7936507936507936,2
+2211,Generalist medical practitioners ,29-1069,"Physicians and Surgeons, All Other","Physicians and Surgeons, All Other",0.6542328042328042,2
+2212,Specialist medical practitioners ,29-1061,Anesthesiologists,Anesthesiologists,0.5465608465608466,2
+2212,Specialist medical practitioners ,29-1069,"Physicians and Surgeons, All Other","Physicians and Surgeons, All Other",0.6542328042328042,2
+2221,Nursing professionals,29-1141,Registered Nurses,Registered Nurses,0.5624338624338625,2
+2221,Nursing professionals,29-1151,Nurse Anesthetists,Nurse Anesthetists,0.5259259259259259,2
+2240,Paramedical practitioners,29-1071,Physician Assistants,Physician Assistants,0.5010582010582011,2
+2250,Veterinarians,29-1131,Veterinarians,Veterinarians,0.4682539682539682,2
+2261,Dentists,29-1021,"Dentists, General","Dentists, General",0.39841269841269844,2
+2261,Dentists,29-1022,Oral and Maxillofacial Surgeons,Oral and Maxillofacial Surgeons,0.40317460317460313,2
+2261,Dentists,29-1023,Orthodontists,Orthodontists,0.496031746031746,2
+2261,Dentists,29-1024,Prosthodontists,Prosthodontists,0.4338624338624339,2
+2262,Pharmacists,29-1051,Pharmacists,Pharmacists,0.6415343915343914,2
+2263,Environmental and occupational health and hygiene professionals,21-1091,Health Educators ,Health Educators,0.7465608465608465,2
+2264,Physiotherapists ,29-1123,Physical Therapists,Physical Therapists,0.4748677248677249,2
+2264,Physiotherapists ,29-1128,Exercise Physiologists,Exercise Physiologists,0.5716931216931217,2
+2265,Dieticians and nutritionists,29-1031,Dietitians and Nutritionists,Dietitians and Nutritionists,0.8513227513227513,2
+2266,Audiologists and speech therapists,29-1127,Speech-Language Pathologists,Speech-Language Pathologists,0.8457671957671957,2
+2266,Audiologists and speech therapists,29-1181,Audiologists,Audiologists,0.6746031746031745,2
+2267,Optometrists and ophthalmic opticians,29-1041,Optometrists,Optometrists,0.5433862433862434,2
+2269,Health professionals not elsewhere classified,29-1122,Occupational Therapists,Occupational Therapists,0.5608465608465608,2
+2310,University and higher education teachers,25-1011,"Business Teachers, Postsecondary","Business Teachers, Postsecondary",0.9185185185185186,2
+2310,University and higher education teachers,25-1021,"Computer Science Teachers, Postsecondary","Computer Science Teachers, Postsecondary",0.8582010582010581,2
+2310,University and higher education teachers,25-1022,"Mathematical Science Teachers, Postsecondary","Mathematical Science Teachers, Postsecondary",0.8626984126984126,2
+2310,University and higher education teachers,25-1031,"Architecture Teachers, Postsecondary","Architecture Teachers, Postsecondary",0.8201058201058201,2
+2310,University and higher education teachers,25-1032,"Engineering Teachers, Postsecondary","Engineering Teachers, Postsecondary",0.844179894179894,2
+2310,University and higher education teachers,25-1041,"Agricultural Sciences Teachers, Postsecondary","Agricultural Sciences Teachers, Postsecondary",0.7957671957671957,2
+2310,University and higher education teachers,25-1042,"Biological Science Teachers, Postsecondary","Biological Science Teachers, Postsecondary",0.8854497354497355,2
+2310,University and higher education teachers,25-1043,"Forestry and Conservation Science Teachers, Postsecondary","Forestry and Conservation Science Teachers, Postsecondary",0.9039682539682539,2
+2310,University and higher education teachers,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.8931216931216932,2
+2310,University and higher education teachers,25-1052,"Chemistry Teachers, Postsecondary","Chemistry Teachers, Postsecondary",0.8740740740740741,2
+2310,University and higher education teachers,25-1053,"Environmental Science Teachers, Postsecondary","Environmental Science Teachers, Postsecondary",0.9145502645502644,2
+2310,University and higher education teachers,25-1054,"Physics Teachers, Postsecondary","Physics Teachers, Postsecondary",0.8185185185185185,2
+2310,University and higher education teachers,25-1061,"Anthropology and Archeology Teachers, Postsecondary","Anthropology and Archeology Teachers, Postsecondary",0.8962962962962963,2
+2310,University and higher education teachers,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.932010582010582,2
+2310,University and higher education teachers,25-1063,"Economics Teachers, Postsecondary","Economics Teachers, Postsecondary",0.8772486772486772,2
+2310,University and higher education teachers,25-1064,"Geography Teachers, Postsecondary","Geography Teachers, Postsecondary",0.9214285714285714,2
+2310,University and higher education teachers,25-1065,"Political Science Teachers, Postsecondary","Political Science Teachers, Postsecondary",0.9587301587301587,2
+2310,University and higher education teachers,25-1066,"Psychology Teachers, Postsecondary","Psychology Teachers, Postsecondary",0.9444444444444444,2
+2310,University and higher education teachers,25-1067,"Sociology Teachers, Postsecondary","Sociology Teachers, Postsecondary",0.9587301587301587,2
+2310,University and higher education teachers,25-1071,"Health Specialties Teachers, Postsecondary","Health Specialties Teachers, Postsecondary",0.8148148148148148,2
+2310,University and higher education teachers,25-1072,"Nursing Instructors and Teachers, Postsecondary","Nursing Instructors and Teachers, Postsecondary",0.6873015873015872,2
+2310,University and higher education teachers,25-1081,"Education Teachers, Postsecondary","Education Teachers, Postsecondary",0.9201058201058201,2
+2310,University and higher education teachers,25-1082,"Library Science Teachers, Postsecondary","Library Science Teachers, Postsecondary",0.9206349206349206,2
+2310,University and higher education teachers,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary","Criminal Justice and Law Enforcement Teachers, Postsecondary",0.9544973544973545,2
+2310,University and higher education teachers,25-1112,"Law Teachers, Postsecondary","Law Teachers, Postsecondary",0.9671957671957672,2
+2310,University and higher education teachers,25-1113,"Social Work Teachers, Postsecondary","Social Work Teachers, Postsecondary",0.9505291005291004,2
+2310,University and higher education teachers,25-1121,"Art, Drama, and Music Teachers, Postsecondary","Art, Drama, and Music Teachers, Postsecondary",0.7568783068783068,2
+2310,University and higher education teachers,25-1122,"Communications Teachers, Postsecondary","Communications Teachers, Postsecondary",0.9407407407407407,2
+2310,University and higher education teachers,25-1123,"English Language and Literature Teachers, Postsecondary","English Language and Literature Teachers, Postsecondary",0.9817460317460318,2
+2310,University and higher education teachers,25-1124,"Foreign Language and Literature Teachers, Postsecondary","Foreign Language and Literature Teachers, Postsecondary",0.9703703703703703,2
+2310,University and higher education teachers,25-1125,"History Teachers, Postsecondary","History Teachers, Postsecondary",0.97010582010582,2
+2310,University and higher education teachers,25-1126,"Philosophy and Religion Teachers, Postsecondary","Philosophy and Religion Teachers, Postsecondary",0.9666666666666666,2
+2310,University and higher education teachers,25-1191,Graduate Teaching Assistants,Graduate Teaching Assistants,0.8544973544973544,2
+2310,University and higher education teachers,25-1192,"Home Economics Teachers, Postsecondary","Home Economics Teachers, Postsecondary",0.8788359788359787,2
+2310,University and higher education teachers,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary","Recreation and Fitness Studies Teachers, Postsecondary",0.8685185185185186,2
+2320,Vocational education teachers,25-1194,"Vocational Education Teachers, Postsecondary","Vocational Education Teachers, Postsecondary",0.5936507936507937,2
+2320,Vocational education teachers,25-2032,"Career/Technical Education Teachers, Secondary School","Career/Technical Education Teachers, Secondary School",0.6021164021164022,2
+2330,Secondary education teachers,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education","Secondary School Teachers, Except Special and Career/Technical Education",0.8208994708994709,2
+2341,Primary school teachers,25-2021,"Elementary School Teachers, Except Special Education","Elementary School Teachers, Except Special Education",0.7595238095238095,2
+2341,Primary school teachers,25-2022,"Middle School Teachers, Except Special and Career/Technical Education","Middle School Teachers, Except Special and Career/Technical Education",0.8301587301587301,2
+2342,Early childhood educators,25-2011,"Preschool Teachers, Except Special Education","Preschool Teachers, Except Special Education",0.5756613756613757,2
+2342,Early childhood educators,25-2012,"Kindergarten Teachers, Except Special Education","Kindergarten Teachers, Except Special Education",0.6632275132275132,2
+2351,Education methods specialists,25-9031,Instructional Coordinators,Instructional Coordinators,0.8407407407407407,2
+2352,Special needs teachers,25-2051,"Special Education Teachers, Preschool","Special Education Teachers, Preschool",0.6637566137566138,2
+2352,Special needs teachers,25-2052,"Special Education Teachers, Kindergarten and Elementary School","Special Education Teachers, Kindergarten and Elementary School",0.7383597883597884,2
+2352,Special needs teachers,25-2053,"Special Education Teachers, Middle School","Special Education Teachers, Middle School",0.8433862433862434,2
+2352,Special needs teachers,25-2054,"Special Education Teachers, Secondary School","Special Education Teachers, Secondary School",0.755026455026455,2
+2353,Other language teachers,25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors ,Adult Basic and Secondary Education and Literacy Teachers and Instructors,0.8714285714285713,2
+2353,Other language teachers,25-3021,Self-Enrichment Education Teachers,Self-Enrichment Education Teachers,0.7087301587301588,2
+2354,Other music teachers,25-3021,Self-Enrichment Education Teachers,Self-Enrichment Education Teachers,0.7087301587301588,2
+2355,Other arts teachers,25-3021,Self-Enrichment Education Teachers,Self-Enrichment Education Teachers,0.7087301587301588,2
+2359,Teaching professionals not elsewhere classified,25-3099,"Teachers and Instructors, All Other","Teachers and Instructors, All Other",0.8835978835978835,2
+2411,Accountants,13-2011,Accountants and Auditors,Accountants and Auditors,0.8116402116402116,2
+2411,Accountants,13-2031,Budget Analysts,Budget Analysts,0.8343915343915344,2
+2411,Accountants,13-2082,Tax Preparers,Tax Preparers,0.7931216931216931,2
+2412,Financial and investment advisers,13-2051,Financial Analysts,Financial Analysts,0.8272486772486771,2
+2412,Financial and investment advisers,13-2052,Personal Financial Advisors,Personal Financial Advisors,0.8597883597883598,2
+2413,Financial analysts,13-2041,Credit Analysts,Credit Analysts,0.7793650793650794,2
+2413,Financial analysts,13-2061,Financial Examiners,Financial Examiners,0.8497354497354497,2
+2421,Management and organization analysts,13-1081,Logisticians,Logisticians,0.7764550264550264,2
+2421,Management and organization analysts,13-1111,Management Analysts,Management Analysts,0.9,2
+2422,Policy administration professionals,13-1199,"Business Operations Specialists, All Other","Business Operations Specialists, All Other",0.7351851851851852,2
+2423,Personnel and careers professionals,13-1071,Human Resources Specialists,Human Resources Specialists,0.9023809523809523,2
+2423,Personnel and careers professionals,13-1141,"Compensation, Benefits, and Job Analysis Specialists","Compensation, Benefits, and Job Analysis Specialists",0.8507936507936508,2
+2431,Advertising and marketing professionals,13-1161,Market Research Analysts and Marketing Specialists,Market Research Analysts and Marketing Specialists,0.8492063492063492,2
+2433,Technical and medical sales professionals (excluding ICT),41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,2
+2433,Technical and medical sales professionals (excluding ICT),41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.7425925925925926,2
+2434,Information and communications technology sales professionals,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,2
+2434,Information and communications technology sales professionals,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.7425925925925926,2
+2434,Information and communications technology sales professionals,41-9031,Sales Engineers,Sales Engineers,0.7619047619047619,2
+2511,Systems analysts,15-1111,Computer and Information Research Scientists,Computer and Information Research Scientists,0.7465608465608465,2
+2511,Systems analysts,15-1121,Computer Systems Analysts,Computer Systems Analysts,0.7671957671957672,2
+2512,Software developers,15-1132,"Software Developers, Applications","Software Developers, Applications",0.7238095238095238,2
+2512,Software developers,15-1133,"Software Developers, Systems Software","Software Developers, Systems Software",0.7989417989417988,2
+2514,Applications programmers,15-1131,Computer Programmers,Computer Programmers,0.7616402116402116,2
+2519,Software and applications developers and analysts not elsewhere classified,15-1199,"Computer Occupations, All Other","Computer Occupations, All Other",0.7666666666666666,2
+2521,Database designers and administrators,15-1141,Database Administrators,Database Administrators,0.753968253968254,2
+2522,Systems administrators,15-1142,Network and Computer Systems Administrators,Network and Computer Systems Administrators,0.6161375661375661,2
+2529,Database and network professionals not elsewhere classified,15-1122,Information Security Analysts,Information Security Analysts,0.7669312169312169,2
+2529,Database and network professionals not elsewhere classified,15-1199,"Computer Occupations, All Other","Computer Occupations, All Other",0.7666666666666666,2
+2611,Lawyers,23-1011,Lawyers,Lawyers,0.875132275132275,2
+2612,Judges,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers","Administrative Law Judges, Adjudicators, and Hearing Officers",0.8997354497354496,2
+2612,Judges,23-1023,"Judges, Magistrate Judges, and Magistrates","Judges, Magistrate Judges, and Magistrates",0.9259259259259258,2
+2619,Legal professionals not elsewhere classified,23-1022,"Arbitrators, Mediators, and Conciliators","Arbitrators, Mediators, and Conciliators",0.9261904761904762,2
+2621,Archivists and curators,25-4011,Archivists,Archivists,0.6738095238095239,2
+2621,Archivists and curators,25-4012,Curators,Curators,0.6640211640211641,2
+2622,Librarians and related information professionals,25-4021,Librarians,Librarians,0.7492063492063491,2
+2622,Librarians and related information professionals,25-9011,Audio-Visual and Multimedia Collections Specialists,Audio-Visual and Multimedia Collections Specialists,0.5624338624338625,2
+2631,Economists,19-3011,Economists,Economists,0.8423280423280424,2
+2632,"Sociologists, anthropologists and related professionals",19-3041,Sociologists,Sociologists,0.9526455026455026,2
+2632,"Sociologists, anthropologists and related professionals",19-3091,Anthropologists and Archeologists,Anthropologists and Archeologists,0.6859788359788359,2
+2632,"Sociologists, anthropologists and related professionals",19-3092,Geographers,Geographers,0.8510582010582011,2
+2633,"Philosophers, historians and political scientists",19-3093,Historians,Historians,0.8849206349206349,2
+2633,"Philosophers, historians and political scientists",19-3094,Political Scientists,Political Scientists,0.9367724867724868,2
+2633,"Philosophers, historians and political scientists",19-3099,"Social Scientists and Related Workers, All Other","Social Scientists and Related Workers, All Other",0.7775132275132275,2
+2634,Psychologists,19-3031,"Clinical, Counseling, and School Psychologists","Clinical, Counseling, and School Psychologists",0.9206349206349206,2
+2634,Psychologists,19-3032,Industrial-Organizational Psychologists,Industrial-Organizational Psychologists,0.867989417989418,2
+2634,Psychologists,19-3039,"Psychologists, All Other","Psychologists, All Other",0.8423280423280424,2
+2635,Social work and counselling professionals,21-1021,"Child, Family, and School Social Workers","Child, Family, and School Social Workers",0.7436507936507936,2
+2635,Social work and counselling professionals,21-1022,Healthcare Social Workers,Healthcare Social Workers,0.77989417989418,2
+2635,Social work and counselling professionals,21-1023,Mental Health and Substance Abuse Social Workers,Mental Health and Substance Abuse Social Workers,0.821957671957672,2
+2635,Social work and counselling professionals,21-1092,Probation Officers and Correctional Treatment Specialists,Probation Officers and Correctional Treatment Specialists,0.7277777777777779,2
+2636,Religious professionals,21-2011,Clergy,Clergy,0.8793650793650792,2
+2641,Authors and related writers,27-3042,Technical Writers,Technical Writers,0.8388888888888889,2
+2641,Authors and related writers,27-3043,Writers and Authors,Writers and Authors,0.7999999999999999,2
+2642,Journalists,27-3022,Reporters and Correspondents,Reporters and Correspondents,0.8796296296296297,2
+2643,"Translators, interpreters and other linguists",27-3091,Interpreters and Translators,Interpreters and Translators,0.8481481481481482,2
+2651,Visual artists,27-1012,Craft Artists,Craft Artists,0.24788359788359787,2
+2651,Visual artists,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators","Fine Artists, Including Painters, Sculptors, and Illustrators",0.3058201058201058,2
+2652,"Musicians, singers and composers",27-2041,Music Directors and Composers,Music Directors and Composers,0.7634920634920634,2
+2652,"Musicians, singers and composers",27-2042,Musicians and Singers,Musicians and Singers,0.5671957671957671,2
+2653,Dancers and choreographers,27-2031,Dancers,Dancers,0.01613756613756618,2
+2653,Dancers and choreographers,27-2032,Choreographers,Choreographers,0.2560846560846561,2
+2654,"Film, stage and related directors and producers",27-1011,Art Directors,Art Directors,0.6828042328042327,2
+2655,Actors,27-2011,Actors,Actors,0.6433862433862433,2
+2656,"Announcers on radio, television and other media",27-3011,Radio and Television Announcers,Radio and Television Announcers,0.7878306878306879,2
+2656,"Announcers on radio, television and other media",27-3012,Public Address System and Other Announcers,Public Address System and Other Announcers,0.694973544973545,2
+2656,"Announcers on radio, television and other media",27-3021,Broadcast News Analysts,Broadcast News Analysts,0.8158730158730159,2
+3111,Chemical and physical science technicians,19-4031,Chemical Technicians,Chemical Technicians,0.4656084656084656,3
+3111,Chemical and physical science technicians,19-4041,Geological and Petroleum Technicians,Geological and Petroleum Technicians,0.48333333333333334,3
+3111,Chemical and physical science technicians,19-4099,"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science Technicians, All Other",0.5370370370370371,3
+3112,Civil engineering technicians,17-3022,Civil Engineering Technicians,Civil Engineering Technicians,0.6367724867724868,3
+3112,Civil engineering technicians,33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers,First-Line Supervisors of Fire Fighting and Prevention Workers,0.3222222222222222,3
+3112,Civil engineering technicians,33-2021,Fire Inspectors and Investigators,Fire Inspectors and Investigators,0.45026455026455026,3
+3112,Civil engineering technicians,47-4011,Construction and Building Inspectors,Construction and Building Inspectors,0.5084656084656085,3
+3113,Electrical engineering technicians,17-3023,Electrical and Electronics Engineering Technicians,Electrical and Electronic Engineering Technicians,0.5111111111111111,3
+3113,Electrical engineering technicians,17-3024,Electro-Mechanical Technicians,Electro-Mechanical Technicians,0.3402116402116402,3
+3114,Electronics engineering technicians,17-3023,Electrical and Electronics Engineering Technicians,Electrical and Electronic Engineering Technicians,0.5111111111111111,3
+3115,Mechanical engineering technicians,17-3021,Aerospace Engineering and Operations Technicians,Aerospace Engineering and Operations Technicians,0.5436507936507936,3
+3115,Mechanical engineering technicians,17-3024,Electro-Mechanical Technicians,Electro-Mechanical Technicians,0.3402116402116402,3
+3115,Mechanical engineering technicians,17-3027,Mechanical Engineering Technicians,Mechanical Engineering Technicians,0.41798941798941797,3
+3115,Mechanical engineering technicians,17-3029,"Engineering Technicians, Except Drafters, All Other","Engineering Technicians, Except Drafters, All Other",0.4695767195767196,3
+3116,Chemical engineering technicians,17-3029,"Engineering Technicians, Except Drafters, All Other","Engineering Technicians, Except Drafters, All Other",0.4695767195767196,3
+3117,Mining and metallurgical technicians,17-3029,"Engineering Technicians, Except Drafters, All Other","Engineering Technicians, Except Drafters, All Other",0.4695767195767196,3
+3117,Mining and metallurgical technicians,19-4041,Geological and Petroleum Technicians,Geological and Petroleum Technicians,0.48333333333333334,3
+3118,Draughtspersons,17-3011,Architectural and Civil Drafters,Architectural and Civil Drafters,0.6370370370370371,3
+3118,Draughtspersons,17-3012,Electrical and Electronics Drafters,Electrical and Electronics Drafters,0.6693121693121693,3
+3118,Draughtspersons,17-3013,Mechanical Drafters,Mechanical Drafters,0.5915343915343916,3
+3119,Physical and engineering science technicians not elsewhere classified,17-3025,Environmental Engineering Technicians,Environmental Engineering Technicians,0.4576719576719576,3
+3119,Physical and engineering science technicians not elsewhere classified,17-3026,Industrial Engineering Technicians,Industrial Engineering Technicians,0.5822751322751323,3
+3119,Physical and engineering science technicians not elsewhere classified,17-3029,"Engineering Technicians, Except Drafters, All Other","Engineering Technicians, Except Drafters, All Other",0.4695767195767196,3
+3119,Physical and engineering science technicians not elsewhere classified,19-4051,Nuclear Technicians,Nuclear Technicians,0.46640211640211643,3
+3119,Physical and engineering science technicians not elsewhere classified,19-4099,"Life, Physical, and Social Science Technicians, All Other","Life, Physical, and Social Science Technicians, All Other",0.5370370370370371,3
+3119,Physical and engineering science technicians not elsewhere classified,33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers,First-Line Supervisors of Fire Fighting and Prevention Workers,0.3222222222222222,3
+3119,Physical and engineering science technicians not elsewhere classified,33-2021,Fire Inspectors and Investigators,Fire Inspectors and Investigators,0.45026455026455026,3
+3119,Physical and engineering science technicians not elsewhere classified,33-2022,Forest Fire Inspectors and Prevention Specialists,Forest Fire Inspectors and Prevention Specialists,0.39999999999999997,3
+3119,Physical and engineering science technicians not elsewhere classified,53-6041,Traffic Technicians,Traffic Technicians,0.5246031746031746,3
+3123,Construction supervisors,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,First-Line Supervisors of Construction Trades and Extraction Workers,0.3952380952380953,3
+3131,Power production plant operators,51-8011,Nuclear Power Reactor Operators,Nuclear Power Reactor Operators,0.5986772486772486,3
+3131,Power production plant operators,51-8012,Power Distributors and Dispatchers,Power Distributors and Dispatchers,0.5584656084656084,3
+3131,Power production plant operators,51-8013,Power Plant Operators,Power Plant Operators,0.3738095238095238,3
+3132,Incinerator and water treatment plant operators,51-8031,Water and Wastewater Treatment Plant and System Operators,Water and Wastewater Treatment Plant and System Operators,0.34259259259259256,3
+3132,Incinerator and water treatment plant operators,51-8099,"Plant and System Operators, All Other","Plant and System Operators, All Other",0.27592592592592596,3
+3132,Incinerator and water treatment plant operators,53-7072,"Pump Operators, Except Wellhead Pumpers","Pump Operators, Except Wellhead Pumpers",0.23333333333333334,3
+3133,Chemical processing plant controllers,51-8091,Chemical Plant and System Operators,Chemical Plant and System Operators,0.3423280423280423,3
+3134,Petroleum and natural gas refining plant operators,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.31825396825396823,3
+3134,Petroleum and natural gas refining plant operators,53-7071,Gas Compressor and Gas Pumping Station Operators,Gas Compressor and Gas Pumping Station Operators,0.25952380952380955,3
+3134,Petroleum and natural gas refining plant operators,53-7072,"Pump Operators, Except Wellhead Pumpers","Pump Operators, Except Wellhead Pumpers",0.23333333333333334,3
+3135,Metal production process controllers,51-4051,Metal-Refining Furnace Operators and Tenders,Metal-Refining Furnace Operators and Tenders,0.1455026455026455,3
+3139,Process control technicians not elsewhere classified,51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.40026455026455027,3
+3141,Life science technicians (excluding medical),19-4091,"Environmental Science and Protection Technicians, Including Health","Environmental Science and Protection Technicians, Including Health",0.45264550264550263,3
+3142,Agricultural technicians,19-4011,Agricultural and Food Science Technicians,Agricultural and Food Science Technicians,0.4775132275132275,3
+3143,Forestry technicians,19-4093,Forest and Conservation Technicians,Forest and Conservation Technicians,0.2891534391534391,3
+3151,Ships' engineers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,3
+3151,Ships' engineers,53-5031,Ship Engineers,Ship Engineers,0.3404761904761905,3
+3152,Ships' deck officers and pilots,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,3
+3152,Ships' deck officers and pilots,53-5021,"Captains, Mates, and Pilots of Water Vessels","Captains, Mates, and Pilots of Water Vessels",0.28068783068783065,3
+3153,Aircraft pilots and related associate professionals,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,3
+3153,Aircraft pilots and related associate professionals,53-2011,"Airline Pilots, Copilots, and Flight Engineers","Airline Pilots, Copilots, and Flight Engineers",0.28994708994708995,3
+3153,Aircraft pilots and related associate professionals,53-2012,Commercial Pilots,Commercial Pilots,0.32010582010582006,3
+3154,Air traffic controllers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,3
+3154,Air traffic controllers,53-2021,Air Traffic Controllers,Air Traffic Controllers,0.6619047619047619,3
+3155,Air traffic safety electronics technicians,17-3023,Electrical and Electronics Engineering Technicians,Electrical and Electronic Engineering Technicians,0.5111111111111111,3
+3211,Medical imaging and therapeutic equipment technicians,29-1124,Radiation Therapists,Radiation Therapists,0.40687830687830684,3
+3211,Medical imaging and therapeutic equipment technicians,29-2032,Diagnostic Medical Sonographers,Diagnostic Medical Sonographers,0.41798941798941797,3
+3211,Medical imaging and therapeutic equipment technicians,29-2033,Nuclear Medicine Technologists,Nuclear Medicine Technologists,0.48439153439153443,3
+3211,Medical imaging and therapeutic equipment technicians,29-2034,Radiologic Technologists ,Radiologic Technologists,0.3833333333333333,3
+3212,Medical and pathology laboratory technicians ,29-2011,Medical and Clinical Laboratory Technologists,Medical and Clinical Laboratory Technologists,0.4793650793650793,3
+3212,Medical and pathology laboratory technicians ,29-2012,Medical and Clinical Laboratory Technicians,Medical and Clinical Laboratory Technicians,0.41560846560846565,3
+3213,Pharmaceutical technicians and assistants,29-2052,Pharmacy Technicians,Pharmacy Technicians,0.48439153439153443,3
+3221,Nursing associate professionals,29-2061,Licensed Practical and Licensed Vocational Nurses,Licensed Practical and Licensed Vocational Nurses,0.41164021164021164,3
+3222,Midwifery associate professionals,29-9099,"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other",0.5642857142857143,3
+3230,Traditional and complementary medicine associate professionals,29-9099,"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other",0.5642857142857143,3
+3240,Veterinary technicians and assistants,29-2056,Veterinary Technologists and Technicians,Veterinary Technologists and Technicians,0.41587301587301584,3
+3240,Veterinary technicians and assistants,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,Veterinary Assistants and Laboratory Animal Caretakers,0.3343915343915344,3
+3251,Dental assistants and therapists,29-2021,Dental Hygienists,Dental Hygienists,0.3973544973544974,3
+3251,Dental assistants and therapists,31-9091,Dental Assistants,Dental Assistants,0.39894179894179893,3
+3254,Dispensing opticians,29-2081,"Opticians, Dispensing","Opticians, Dispensing",0.4981481481481481,3
+3255,Physiotherapy technicians and assistants,31-2021,Physical Therapist Assistants,Physical Therapist Assistants,0.42513227513227514,3
+3256,Medical assistants,29-2057,Ophthalmic Medical Technicians,Ophthalmic Medical Technicians,0.5124338624338625,3
+3256,Medical assistants,31-9092,Medical Assistants,Medical Assistants,0.5529100529100528,3
+3257,Environmental and occupational health inspectors and associates,29-9012,Occupational Health and Safety Technicians,Occupational Health and Safety Technicians,0.5775132275132275,3
+3257,Environmental and occupational health inspectors and associates,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,3
+3257,Environmental and occupational health inspectors and associates,53-6051,Transportation Inspectors,Transportation Inspectors,0.40634920634920635,3
+3259,Health associate professionals not elsewhere classified,29-2031,Cardiovascular Technologists and Technicians,Cardiovascular Technologists and Technicians,0.4558201058201058,3
+3259,Health associate professionals not elsewhere classified,29-2051,Dietetic Technicians,Dietetic Technicians,0.4566137566137566,3
+3259,Health associate professionals not elsewhere classified,29-2053,Psychiatric Technicians,Psychiatric Technicians,0.4902116402116402,3
+3259,Health associate professionals not elsewhere classified,29-2054,Respiratory Therapy Technicians,Respiratory Therapy Technicians,0.46719576719576716,3
+3259,Health associate professionals not elsewhere classified,29-2055,Surgical Technologists,Surgical Technologists,0.34708994708994706,3
+3259,Health associate professionals not elsewhere classified,29-2099,"Health Technologists and Technicians, All Other","Health Technologists and Technicians, All Other",0.4161375661375661,3
+3259,Health associate professionals not elsewhere classified,29-9099,"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other",0.5642857142857143,3
+3259,Health associate professionals not elsewhere classified,31-2011,Occupational Therapy Assistants,Occupational Therapy Assistants,0.47063492063492063,3
+3259,Health associate professionals not elsewhere classified,31-9099,"Healthcare Support Workers, All Other","Healthcare Support Workers, All Other",0.557142857142857,3
+3311,Securities and finance dealers and brokers,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3311,Securities and finance dealers and brokers,41-3031,"Securities, Commodities, and Financial Services Sales Agents","Securities, Commodities, and Financial Services Sales Agents",0.8238095238095238,3
+3313,Accounting associate professionals,43-3031,"Bookkeeping, Accounting, and Auditing Clerks","Bookkeeping, Accounting, and Auditing Clerks",0.7068783068783069,3
+3314,"Statistical, mathematical and related associate professionals",15-2091,Mathematical Technicians,Mathematical Technicians,0.6063492063492064,3
+3314,"Statistical, mathematical and related associate professionals",19-4061,Social Science Research Assistants,Social Science Research Assistants,0.7883597883597883,3
+3314,"Statistical, mathematical and related associate professionals",43-9111,Statistical Assistants,Statistical Assistants,0.769047619047619,3
+3315,Valuers and loss assessors,13-1031,"Claims Adjusters, Examiners, and Investigators","Claims Adjusters, Examiners, and Investigators",0.783068783068783,3
+3315,Valuers and loss assessors,13-1032,"Insurance Appraisers, Auto Damage","Insurance Appraisers, Auto Damage",0.6444444444444444,3
+3315,Valuers and loss assessors,13-2021,Appraisers and Assessors of Real Estate,Appraisers and Assessors of Real Estate,0.6566137566137566,3
+3321,Insurance representatives,13-2053,Insurance Underwriters,Insurance Underwriters,0.8243386243386243,3
+3321,Insurance representatives,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3321,Insurance representatives,41-3021,Insurance Sales Agents,Insurance Sales Agents,0.867989417989418,3
+3322,Commercial sales representatives,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3323,Buyers,13-1021,"Buyers and Purchasing Agents, Farm Products","Buyers and Purchasing Agents, Farm Products",0.6854497354497354,3
+3323,Buyers,13-1022,"Wholesale and Retail Buyers, Except Farm Products","Wholesale and Retail Buyers, Except Farm Products",0.6997354497354497,3
+3323,Buyers,13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.8862433862433862,3
+3324,Trade brokers,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3324,Trade brokers,41-3031,"Securities, Commodities, and Financial Services Sales Agents","Securities, Commodities, and Financial Services Sales Agents",0.8238095238095238,3
+3332,Conference and event planners,13-1121,"Meeting, Convention, and Event Planners","Meeting, Convention, and Event Planners",0.6261904761904762,3
+3333,Employment agents and contractors,13-1071,Human Resources Specialists,Human Resources Specialists,0.9023809523809523,3
+3334,Real estate agents and property managers,11-9141,"Property, Real Estate, and Community Association Managers","Property, Real Estate, and Community Association Managers",0.8119047619047618,3
+3334,Real estate agents and property managers,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3334,Real estate agents and property managers,41-9021,Real Estate Brokers,Real Estate Brokers,0.847089947089947,3
+3334,Real estate agents and property managers,41-9022,Real Estate Sales Agents,Real Estate Sales Agents,0.6759259259259259,3
+3339,Business services agents not elsewhere classified,13-1051,Cost Estimators,Cost Estimators,0.7904761904761904,3
+3339,Business services agents not elsewhere classified,13-1199,"Business Operations Specialists, All Other","Business Operations Specialists, All Other",0.7351851851851852,3
+3339,Business services agents not elsewhere classified,13-2099,"Financial Specialists, All Other","Financial Specialists, All Other",0.821957671957672,3
+3339,Business services agents not elsewhere classified,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,3
+3339,Business services agents not elsewhere classified,41-3011,Advertising Sales Agents,Advertising Sales Agents,0.7873015873015873,3
+3339,Business services agents not elsewhere classified,41-3041,Travel Agents,Travel Agents,0.8285714285714285,3
+3342,Legal secretaries,43-6012,Legal Secretaries,Legal Secretaries,0.7944444444444444,3
+3343,Administrative and executive secretaries,23-2091,Court Reporters,Court Reporters,0.7293650793650793,3
+3343,Administrative and executive secretaries,43-6011,Executive Secretaries and Executive Administrative Assistants,Executive Secretaries and Executive Administrative Assistants,0.783068783068783,3
+3344,Medical secretaries,31-9094,Medical Transcriptionists,Medical Transcriptionists,0.8068783068783068,3
+3344,Medical secretaries,43-6013,Medical Secretaries,Medical Secretaries,0.8338624338624339,3
+3351,Customs and border inspectors,13-1041,Compliance Officers,Compliance Officers,0.6417989417989418,3
+3351,Customs and border inspectors,33-1012,First-Line Supervisors of Police and Detectives,First-Line Supervisors of Police and Detectives,0.43862433862433864,3
+3351,Customs and border inspectors,33-3051,Police and Sheriff's Patrol Officers,Police and Sheriff's Patrol Officers,0.32116402116402115,3
+3352,Government tax and excise officials,13-2081,"Tax Examiners and Collectors, and Revenue Agents","Tax Examiners and Collectors, and Revenue Agents",0.821957671957672,3
+3353,Government social benefits officials,13-1041,Compliance Officers,Compliance Officers,0.6417989417989418,3
+3353,Government social benefits officials,43-4061,"Eligibility Interviewers, Government Programs","Eligibility Interviewers, Government Programs",0.8653439153439153,3
+3354,Government licensing officials,13-1041,Compliance Officers,Compliance Officers,0.6417989417989418,3
+3354,Government licensing officials,43-4031,"Court, Municipal, and License Clerks","Court, Municipal, and License Clerks",0.843915343915344,3
+3355,Police inspectors and detectives,33-1012,First-Line Supervisors of Police and Detectives,First-Line Supervisors of Police and Detectives,0.43862433862433864,3
+3355,Police inspectors and detectives,33-3021,Detectives and Criminal Investigators,Detectives and Criminal Investigators,0.5304232804232804,3
+3411,Legal and related associate professionals,23-1012,Judicial Law Clerks,Judicial Law Clerks,0.8907407407407407,3
+3411,Legal and related associate professionals,23-2011,Paralegals and Legal Assistants,Paralegals and Legal Assistants,0.8431216931216932,3
+3411,Legal and related associate professionals,23-2093,"Title Examiners, Abstractors, and Searchers","Title Examiners, Abstractors, and Searchers",0.8566137566137566,3
+3411,Legal and related associate professionals,33-9021,Private Detectives and Investigators,Private Detectives and Investigators,0.6531746031746032,3
+3411,Legal and related associate professionals,33-9031,Gaming Surveillance Officers and Gaming Investigators,Gaming Surveillance Officers and Gaming Investigators,0.6050264550264549,3
+3412,Social work associate professionals,21-1093,Social and Human Service Assistants,Social and Human Service Assistants,0.6378306878306877,3
+3421,Athletes and sports players,27-2021,Athletes and Sports Competitors,Athletes and Sports Competitors,0.1492063492063492,3
+3422,"Sports coaches, instructors and officials",27-2022,Coaches and Scouts,Coaches and Scouts,0.5748677248677249,3
+3422,"Sports coaches, instructors and officials",27-2023,"Umpires, Referees, and Other Sports Officials","Umpires, Referees, and Other Sports Officials",0.4521164021164021,3
+3423,Fitness and recreation instructors and program leaders,29-9091,Athletic Trainers,Athletic Trainers,0.46534391534391534,3
+3423,Fitness and recreation instructors and program leaders,39-9031,Fitness Trainers and Aerobics Instructors,Fitness Trainers and Aerobics Instructors,0.15793650793650799,3
+3431,Photographers,27-4021,Photographers,Photographers,0.3894179894179894,3
+3432,Interior designers and decorators,27-1025,Interior Designers,Interior Designers,0.707936507936508,3
+3432,Interior designers and decorators,27-1027,Set and Exhibit Designers,Set and Exhibit Designers,0.4481481481481482,3
+3434,Chefs,35-1011,Chefs and Head Cooks,Chefs and Head Cooks,0.44497354497354497,3
+3434,Chefs,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,First-Line Supervisors of Food Preparation and Serving Workers,0.4507936507936508,3
+3435,Other artistic and cultural associate professionals,39-3092,Costume Attendants,Costume Attendants,0.41216931216931213,3
+3511,Information and communications technology operations technicians,43-9011,Computer Operators,Computer Operators,0.5984126984126984,3
+3514,Web technicians,15-1142,Network and Computer Systems Administrators,Network and Computer Systems Administrators,0.6161375661375661,3
+3521,Broadcasting and audio-visual technicians,27-4011,Audio and Video Equipment Technicians,Audio and Video Equipment Technicians,0.4587301587301587,3
+3521,Broadcasting and audio-visual technicians,27-4031,"Camera Operators, Television, Video, and Motion Picture","Camera Operators, Television, Video, and Motion Picture",0.32407407407407407,3
+3522,Telecommunications engineering technicians,17-3023,Electrical and Electronics Engineering Technicians,Electrical and Electronic Engineering Technicians,0.5111111111111111,3
+4110,General office clerks,43-3061,Procurement Clerks,Procurement Clerks,0.911111111111111,4
+4120,Secretaries (general),43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.8222222222222222,4
+4131,Typists and word processing operators,43-9022,Word Processors and Typists,Word Processors and Typists,0.6246031746031746,4
+4132,Data entry clerks,43-9021,Data Entry Keyers,Data Entry Keyers,0.535978835978836,4
+4211,Bank tellers and related clerks,43-3071,Tellers,Tellers,0.6044973544973545,4
+4212,"Bookmakers, croupiers and related gaming workers",39-1011,Gaming Supervisors,Gaming Supervisors,0.7589947089947089,4
+4212,"Bookmakers, croupiers and related gaming workers",39-1012,Slot Supervisors,Slot Supervisors,0.49761904761904757,4
+4212,"Bookmakers, croupiers and related gaming workers",39-3011,Gaming Dealers,Gaming Dealers,0.4984126984126984,4
+4212,"Bookmakers, croupiers and related gaming workers",39-3012,Gaming and Sports Book Writers and Runners,Gaming and Sports Book Writers and Runners,0.587037037037037,4
+4212,"Bookmakers, croupiers and related gaming workers",43-3041,Gaming Cage Workers,Gaming Cage Workers,0.6216931216931216,4
+4214,Debt-collectors and related workers,43-3011,Bill and Account Collectors,Bill and Account Collectors,0.8264550264550264,4
+4221,Travel consultants and clerks,41-1012,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,0.8235449735449735,4
+4221,Travel consultants and clerks,41-3041,Travel Agents,Travel Agents,0.8285714285714285,4
+4221,Travel consultants and clerks,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,Reservation and Transportation Ticket Agents and Travel Clerks,0.6023809523809524,4
+4222,Contact centre information clerks,43-4051,Customer Service Representatives,Customer Service Representatives,0.7751322751322751,4
+4223,Telephone switchboard operators,43-2021,Telephone Operators,Telephone Operators,0.864021164021164,4
+4224,Hotel receptionists,43-4081,"Hotel, Motel, and Resort Desk Clerks","Hotel, Motel, and Resort Desk Clerks",0.6785714285714285,4
+4225,Enquiry clerks,43-4171,Receptionists and Information Clerks,Receptionists and Information Clerks,0.7637566137566137,4
+4226,Receptionists (general),43-4171,Receptionists and Information Clerks,Receptionists and Information Clerks,0.7637566137566137,4
+4311,Accounting and bookkeeping clerks,43-3031,"Bookkeeping, Accounting, and Auditing Clerks","Bookkeeping, Accounting, and Auditing Clerks",0.7068783068783069,4
+4312,"Statistical, finance and insurance clerks",43-4011,Brokerage Clerks,Brokerage Clerks,0.7619047619047619,4
+4312,"Statistical, finance and insurance clerks",43-4041,"Credit Authorizers, Checkers, and Clerks","Credit Authorizers, Checkers, and Clerks",0.8994708994708995,4
+4312,"Statistical, finance and insurance clerks",43-4141,New Accounts Clerks,New Accounts Clerks,0.8082010582010581,4
+4313,Payroll clerks,43-3051,Payroll and Timekeeping Clerks,Payroll and Timekeeping Clerks,0.7960317460317461,4
+4321,Stock clerks,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.3970899470899471,4
+4323,Transport clerks,43-5032,"Dispatchers, Except Police, Fire, and Ambulance","Dispatchers, Except Police, Fire, and Ambulance",0.7888888888888889,4
+4411,Library clerks,43-4121,"Library Assistants, Clerical","Library Assistants, Clerical",0.5634920634920634,4
+4412,Mail carriers and sorting clerks,43-5021,Couriers and Messengers,Couriers and Messengers,0.24656084656084656,4
+4412,Mail carriers and sorting clerks,43-5051,Postal Service Clerks,Postal Service Clerks,0.41534391534391535,4
+4412,Mail carriers and sorting clerks,43-5052,Postal Service Mail Carriers,Postal Service Mail Carriers,0.23465608465608467,4
+4412,Mail carriers and sorting clerks,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators","Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.22407407407407412,4
+4412,Mail carriers and sorting clerks,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service","Mail Clerks and Mail Machine Operators, Except Postal Service",0.3023809523809524,4
+4413,"Coding, proof-reading and related clerks",43-9081,Proofreaders and Copy Markers,Proofreaders and Copy Markers,0.8703703703703703,4
+4415,Filing and copying clerks,43-4071,File Clerks,File Clerks,0.553968253968254,4
+4419,Clerical support workers not elsewhere classified,43-4151,Order Clerks,Order Clerks,0.6917989417989419,4
+5111,Travel attendants and travel stewards,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,5
+5111,Travel attendants and travel stewards,53-2031,Flight Attendants,Flight Attendants,0.39391534391534394,5
+5111,Travel attendants and travel stewards,53-6061,"Transportation Attendants, Except Flight Attendants ","Transportation Attendants, Except Flight Attendants",0.4592592592592593,5
+5112,Transport conductors,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,5
+5112,Transport conductors,53-6061,"Transportation Attendants, Except Flight Attendants ","Transportation Attendants, Except Flight Attendants",0.4592592592592593,5
+5113,Travel guides,39-7011,Tour Guides and Escorts,Tour Guides and Escorts,0.6851851851851851,5
+5113,Travel guides,39-7012,Travel Guides,Travel Guides,0.6367724867724868,5
+5120,Cooks,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,First-Line Supervisors of Food Preparation and Serving Workers,0.4507936507936508,5
+5120,Cooks,35-2012,"Cooks, Institution and Cafeteria","Cooks, Institution and Cafeteria",0.34259259259259256,5
+5120,Cooks,35-2013,"Cooks, Private Household","Cooks, Private Household",0.32142857142857145,5
+5120,Cooks,35-2014,"Cooks, Restaurant","Cooks, Restaurant",0.2896825396825397,5
+5120,Cooks,35-2015,"Cooks, Short Order","Cooks, Short Order",0.3404761904761905,5
+5132,Bartenders,35-3011,Bartenders,Bartenders,0.3817460317460317,5
+5141,Hairdressers,39-5011,Barbers,Barbers,0.3468253968253968,5
+5141,Hairdressers,39-5012,"Hairdressers, Hairstylists, and Cosmetologists","Hairdressers, Hairstylists, and Cosmetologists",0.3275132275132275,5
+5142,Beauticians and related workers,39-5012,"Hairdressers, Hairstylists, and Cosmetologists","Hairdressers, Hairstylists, and Cosmetologists",0.3275132275132275,5
+5142,Beauticians and related workers,39-5091,"Makeup Artists, Theatrical and Performance","Makeup Artists, Theatrical and Performance",0.35899470899470903,5
+5142,Beauticians and related workers,39-5092,Manicurists and Pedicurists,Manicurists and Pedicurists,0.4695767195767196,5
+5142,Beauticians and related workers,39-5093,Shampooers,Shampooers,0.35793650793650794,5
+5142,Beauticians and related workers,39-5094,Skincare Specialists,Skincare Specialists,0.4806878306878307,5
+5153,Building caretakers,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.20132275132275135,5
+5163,Undertakers and embalmers,39-4011,Embalmers,Embalmers,0.31666666666666665,5
+5163,Undertakers and embalmers,39-4021,Funeral Attendants,Funeral Attendants,0.4486772486772487,5
+5163,Undertakers and embalmers,39-4031,"Morticians, Undertakers and Funeral Directors","Morticians, Undertakers, and Funeral Directors",0.4603174603174603,5
+5164,Pet groomers and animal care workers,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,Veterinary Assistants and Laboratory Animal Caretakers,0.3343915343915344,5
+5169,Personal services workers not elsewhere classified,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.5386243386243386,5
+5169,Personal services workers not elsewhere classified,39-9032,Recreation Workers,Recreation Workers,0.5161375661375661,5
+5169,Personal services workers not elsewhere classified,39-9041,Residential Advisors,Residential Advisors,0.6785714285714285,5
+5211,Stall and market salespersons,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",0.8902116402116402,5
+5212,Street food salespersons,35-3041,"Food Servers, Nonrestaurant","Food Servers, Nonrestaurant",0.3727513227513227,5
+5212,Street food salespersons,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",0.8902116402116402,5
+5221,Shopkeepers,11-1021,General and Operations Managers,General and Operations Managers,0.6698412698412698,5
+5222,Shop supervisors,41-1011,First-Line Supervisors of Retail Sales Workers,First-Line Supervisors of Retail Sales Workers,0.5436507936507936,5
+5223,Shop sales assistants,41-2022,Parts Salespersons,Parts Salespersons,0.48677248677248675,5
+5223,Shop sales assistants,41-2031,Retail Salespersons,Retail Salespersons,0.584920634920635,5
+5230,Cashiers and ticket clerks,41-2012,Gaming Change Persons and Booth Cashiers,Gaming Change Persons and Booth Cashiers,0.4629629629629629,5
+5241,Fashion and other models,41-9012,Models,Models,0.3574074074074074,5
+5243,Door to door salespersons,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",0.8902116402116402,5
+5244,Contact centre salespersons,41-9041,Telemarketers,Telemarketers,1.0,5
+5245,Service station attendants,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,5
+5246,Food service counter attendants,35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food","Combined Food Preparation and Serving Workers, Including Fast Food",0.40899470899470897,5
+5249,Sales workers not elsewhere classified,41-2021,Counter and Rental Clerks,Counter and Rental Clerks,0.5283068783068783,5
+5311,Child care workers,39-9011,Childcare Workers,Childcare Workers,0.4462962962962963,5
+5322,Home-based personal care workers,31-1011,Home Health Aides,Home Health Aides,0.3833333333333333,5
+5322,Home-based personal care workers,39-9021,Personal Care Aides,Personal Care Aides,0.43597883597883597,5
+5329,Personal care workers in health services not elsewhere classified,31-2012,Occupational Therapy Aides,Occupational Therapy Aides,0.396031746031746,5
+5329,Personal care workers in health services not elsewhere classified,31-9091,Dental Assistants,Dental Assistants,0.39894179894179893,5
+5329,Personal care workers in health services not elsewhere classified,31-9099,"Healthcare Support Workers, All Other","Healthcare Support Workers, All Other",0.557142857142857,5
+5411,Fire-fighters,33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers,First-Line Supervisors of Fire Fighting and Prevention Workers,0.3222222222222222,5
+5411,Fire-fighters,33-2011,Firefighters,Firefighters,0.15000000000000002,5
+5412,Police officers,33-1012,First-Line Supervisors of Police and Detectives,First-Line Supervisors of Police and Detectives,0.43862433862433864,5
+5412,Police officers,33-3051,Police and Sheriff's Patrol Officers,Police and Sheriff's Patrol Officers,0.32116402116402115,5
+5412,Police officers,33-3052,Transit and Railroad Police,Transit and Railroad Police,0.29338624338624336,5
+5413,Prison guards,33-1011,First-Line Supervisors of Correctional Officers,First-Line Supervisors of Correctional Officers,0.394973544973545,5
+5413,Prison guards,33-3012,Correctional Officers and Jailers,Correctional Officers and Jailers,0.3134920634920635,5
+5414,Security guards,33-9031,Gaming Surveillance Officers and Gaming Investigators,Gaming Surveillance Officers and Gaming Investigators,0.6050264550264549,5
+5414,Security guards,33-9032,Security Guards,Security Guards,0.37857142857142856,5
+5419,Protective services workers not elsewhere classified,33-3031,Fish and Game Wardens,Fish and Game Wardens,0.3566137566137566,5
+5419,Protective services workers not elsewhere classified,33-3041,Parking Enforcement Workers,Parking Enforcement Workers,0.3246031746031746,5
+5419,Protective services workers not elsewhere classified,33-9091,Crossing Guards,Crossing Guards,0.38544973544973543,5
+5419,Protective services workers not elsewhere classified,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.40687830687830684,5
+5419,Protective services workers not elsewhere classified,33-9099,"Protective Service Workers, All Other","Protective Service Workers, All Other",0.485978835978836,5
+5419,Protective services workers not elsewhere classified,43-5031,"Police, Fire, and Ambulance Dispatchers","Police, Fire, and Ambulance Dispatchers",0.6952380952380952,5
+6111,Field crop and vegetable growers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6111,Field crop and vegetable growers,45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,6
+6112,Tree and shrub crop growers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6112,Tree and shrub crop growers,45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,6
+6113,"Gardeners, horticultural and nursery growers",37-1012,"First-line Supervisor of Landscaping, Lawn Service, and Groundskeeping Workers","First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.3619047619047619,6
+6113,"Gardeners, horticultural and nursery growers",45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,6
+6114,Mixed crop growers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6114,Mixed crop growers,45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,6
+6121,Livestock and dairy producers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6121,Livestock and dairy producers,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6122,Poultry producers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6122,Poultry producers,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6123,Apiarists and sericulturists,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6123,Apiarists and sericulturists,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6129,Animal producers not elsewhere classified,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6129,Animal producers not elsewhere classified,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6130,Mixed crop and animal producers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6130,Mixed crop and animal producers,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6130,Mixed crop and animal producers,45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,6
+6210,Forestry and related workers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6210,Forestry and related workers,45-4011,Forest and Conservation Workers,Forest and Conservation Workers,0.22592592592592595,6
+6210,Forestry and related workers,45-4021,Fallers,Fallers,0.016666666666666708,6
+6210,Forestry and related workers,45-4022,Logging Equipment Operators,Logging Equipment Operators,0.13201058201058202,6
+6210,Forestry and related workers,45-4023,Log Graders and Scalers,Log Graders and Scalers,0.30449735449735454,6
+6221,Aquaculture workers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6221,Aquaculture workers,45-2021,Animal Breeders,Animal Breeders,0.24153439153439155,6
+6222,Inland and coastal waters fishery workers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6222,Inland and coastal waters fishery workers,45-3011,Fishers and Related Fishing Workers,Fishers and Related Fishing Workers,0.09074074074074079,6
+6223,Deep-sea fishery workers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6223,Deep-sea fishery workers,45-3011,Fishers and Related Fishing Workers,Fishers and Related Fishing Workers,0.09074074074074079,6
+6224,Hunters and trappers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers","First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.34285714285714286,6
+6224,Hunters and trappers,45-3021,Hunters and Trappers,Hunters and Trappers,0.12698412698412698,6
+6310,Subsistence crop farmers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.11164021164021168,6
+6320,Subsistence livestock farmers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",0.2023809523809524,6
+6330,Subsistence mixed crop and livestock farmers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.11164021164021168,6
+6330,Subsistence mixed crop and livestock farmers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",0.2023809523809524,6
+6340,"Subsistence fishers, hunters, trappers and gatherers",45-3011,Fishers and Related Fishing Workers,Fishers and Related Fishing Workers,0.09074074074074079,6
+6340,"Subsistence fishers, hunters, trappers and gatherers",45-3021,Hunters and Trappers,Hunters and Trappers,0.12698412698412698,6
+7111,House builders,11-9021,Construction Managers,Construction Managers,0.6587301587301587,7
+7112,Bricklayers and related workers,47-2021,Brickmasons and Blockmasons,Brickmasons and Blockmasons,0.06534391534391537,7
+7112,Bricklayers and related workers,49-9045,"Refractory Materials Repairers, Except Brickmasons","Refractory Materials Repairers, Except Brickmasons",0.17063492063492064,7
+7113,"Stonemasons, stone cutters, splitters and carvers",47-2022,Stonemasons,Stonemasons,0.09814814814814814,7
+7114,"Concrete placers, concrete finishers and related workers",47-2051,Cement Masons and Concrete Finishers,Cement Masons and Concrete Finishers,0.0465608465608466,7
+7114,"Concrete placers, concrete finishers and related workers",47-2053,Terrazzo Workers and Finishers,Terrazzo Workers and Finishers,0.04470899470899472,7
+7114,"Concrete placers, concrete finishers and related workers",47-4091,Segmental Pavers,Segmental Pavers,0.23941798941798945,7
+7115,Carpenters and joiners,47-2031,Carpenters,Carpenters,0.1611111111111111,7
+7119,Building frame and related trades workers not elsewhere classified,47-2231,Solar Photovoltaic Installers,Solar Photovoltaic Installers,0.21613756613756616,7
+7119,Building frame and related trades workers not elsewhere classified,47-4031,Fence Erectors,Fence Erectors,0.047354497354497364,7
+7119,Building frame and related trades workers not elsewhere classified,47-4041,Hazardous Materials Removal Workers,Hazardous Materials Removal Workers,0.29365079365079366,7
+7119,Building frame and related trades workers not elsewhere classified,47-4099,"Construction and Related Workers, All Other","Construction and Related Workers, All Other",0.26005291005291004,7
+7119,Building frame and related trades workers not elsewhere classified,49-9095,Manufactured Building and Mobile Home Installers,Manufactured Building and Mobile Home Installers,0.10952380952380955,7
+7122,Floor layers and tile setters,47-2041,Carpet Installers,Carpet Installers,0.11640211640211644,7
+7122,Floor layers and tile setters,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles","Floor Layers, Except Carpet, Wood, and Hard Tiles",0.212962962962963,7
+7122,Floor layers and tile setters,47-2043,Floor Sanders and Finishers,Floor Sanders and Finishers,0.07407407407407407,7
+7122,Floor layers and tile setters,47-2044,Tile and Marble Setters,Tile and Marble Setters,0.1740740740740741,7
+7123,Plasterers,47-2081,Drywall and Ceiling Tile Installers,Drywall and Ceiling Tile Installers,0.09470899470899473,7
+7123,Plasterers,47-2082,Tapers,Tapers,0.13465608465608467,7
+7123,Plasterers,47-2161,Plasterers and Stucco Masons,Plasterers and Stucco Masons,0.07301587301587302,7
+7124,Insulation workers,47-2131,"Insulation Workers, Floor, Ceiling, and Wall","Insulation Workers, Floor, Ceiling, and Wall",0.09100529100529102,7
+7124,Insulation workers,47-2132,"Insulation Workers, Mechanical","Insulation Workers, Mechanical",0.20476190476190476,7
+7125,Glaziers,47-2121,Glaziers,Glaziers,0.15529100529100534,7
+7126,Plumbers and pipe fitters,47-2151,Pipelayers,Pipelayers,0.17804232804232803,7
+7126,Plumbers and pipe fitters,47-2152,"Plumbers, Pipefitters, and Steamfitters","Plumbers, Pipefitters, and Steamfitters",0.19417989417989417,7
+7127,Air conditioning and refrigeration mechanics,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7131,Painters and related workers,47-2141,"Painters, Construction and Maintenance","Painters, Construction and Maintenance",0.12513227513227515,7
+7131,Painters and related workers,47-2142,Paperhangers,Paperhangers,0.0761904761904762,7
+7132,Spray painters and varnishers,51-9122,"Painters, Transportation Equipment","Painters, Transportation Equipment",0.07566137566137567,7
+7211,Metal moulders and coremakers,51-4071,Foundry Mold and Coremakers,Foundry Mold and Coremakers,0.05608465608465613,7
+7212,Welders and flamecutters,51-4121,"Welders, Cutters, Solderers, and Brazers","Welders, Cutters, Solderers, and Brazers",0.1470899470899471,7
+7213,Sheet-metal workers,47-2011,Boilermakers,Boilermakers,0.19365079365079363,7
+7213,Sheet-metal workers,47-2211,Sheet Metal Workers,Sheet Metal Workers,0.1611111111111111,7
+7213,Sheet-metal workers,51-4192,"Layout Workers, Metal and Plastic","Layout Workers, Metal and Plastic",0.24285714285714285,7
+7214,Structural-metal preparers and erectors,47-2171,Reinforcing Iron and Rebar Workers,Reinforcing Iron and Rebar Workers,0.019312169312169357,7
+7214,Structural-metal preparers and erectors,47-2221,Structural Iron and Steel Workers,Structural Iron and Steel Workers,0.04047619047619048,7
+7214,Structural-metal preparers and erectors,51-2041,Structural Metal Fabricators and Fitters,Structural Metal Fabricators and Fitters,0.20529100529100527,7
+7215,Riggers and cable splicers,49-9096,Riggers,Riggers,0.1523809523809524,7
+7222,Toolmakers and related workers,49-9094,Locksmiths and Safe Repairers,Locksmiths and Safe Repairers,0.22830687830687832,7
+7222,Toolmakers and related workers,51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.40026455026455027,7
+7222,Toolmakers and related workers,51-4111,Tool and Die Makers,Tool and Die Makers,0.30873015873015874,7
+7222,Toolmakers and related workers,51-4192,"Layout Workers, Metal and Plastic","Layout Workers, Metal and Plastic",0.24285714285714285,7
+7223,Metal working machine tool setters and operators,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic","Computer-Controlled Machine Tool Operators, Metal and Plastic",0.25555555555555554,7
+7223,Metal working machine tool setters and operators,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.13994708994709,7
+7223,Metal working machine tool setters and operators,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.2574074074074074,7
+7223,Metal working machine tool setters and operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.17671957671957675,7
+7223,Metal working machine tool setters and operators,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.18624338624338627,7
+7223,Metal working machine tool setters and operators,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.25582010582010584,7
+7223,Metal working machine tool setters and operators,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.17460317460317462,7
+7223,Metal working machine tool setters and operators,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.19259259259259262,7
+7223,Metal working machine tool setters and operators,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.2611111111111111,7
+7223,Metal working machine tool setters and operators,51-4041,Machinists,Machinists,0.23174603174603176,7
+7223,Metal working machine tool setters and operators,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.26693121693121696,7
+7224,"Metal polishers, wheel grinders and tool sharpeners",51-4194,"Tool Grinders, Filers, and Sharpeners","Tool Grinders, Filers, and Sharpeners",0.20026455026455028,7
+7224,"Metal polishers, wheel grinders and tool sharpeners",51-9022,"Grinding and Polishing Workers, Hand","Grinding and Polishing Workers, Hand",0.16772486772486775,7
+7231,Motor vehicle mechanics and repairers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7231,Motor vehicle mechanics and repairers,49-3021,Automotive Body and Related Repairers,Automotive Body and Related Repairers,0.17328042328042328,7
+7231,Motor vehicle mechanics and repairers,49-3022,Automotive Glass Installers and Repairers,Automotive Glass Installers and Repairers,0.16375661375661374,7
+7231,Motor vehicle mechanics and repairers,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,Bus and Truck Mechanics and Diesel Engine Specialists,0.2105820105820106,7
+7231,Motor vehicle mechanics and repairers,49-3051,Motorboat Mechanics and Service Technicians,Motorboat Mechanics and Service Technicians,0.24232804232804236,7
+7231,Motor vehicle mechanics and repairers,49-3052,Motorcycle Mechanics,Motorcycle Mechanics,0.31428571428571433,7
+7231,Motor vehicle mechanics and repairers,49-3092,Recreational Vehicle Service Technicians,Recreational Vehicle Service Technicians,0.2605820105820106,7
+7231,Motor vehicle mechanics and repairers,49-3093,Tire Repairers and Changers,Tire Repairers and Changers,0.11402116402116402,7
+7232,Aircraft engine mechanics and repairers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7232,Aircraft engine mechanics and repairers,49-3011,Aircraft Mechanics and Service Technicians,Aircraft Mechanics and Service Technicians,0.2751322751322751,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines","Mobile Heavy Equipment Mechanics, Except Engines",0.15740740740740744,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-9043,"Maintenance Workers, Machinery","Maintenance Workers, Machinery",0.221957671957672,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-9044,Millwrights,Millwrights,0.1507936507936508,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-9045,"Refractory Materials Repairers, Except Brickmasons","Refractory Materials Repairers, Except Brickmasons",0.17063492063492064,7
+7233,Agricultural and industrial machinery mechanics and repairers,49-9081,Wind Turbine Service Technicians,Wind Turbine Service Technicians,0.23015873015873017,7
+7234,Bicycle and related repairers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7311,Precision-instrument makers and repairers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7311,Precision-instrument makers and repairers,49-9062,Medical Equipment Repairers,Medical Equipment Repairers,0.34841269841269845,7
+7311,Precision-instrument makers and repairers,49-9064,Watch Repairers,Watch Repairers,0.32671957671957674,7
+7312,Musical instrument makers and tuners,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7312,Musical instrument makers and tuners,49-9063,Musical Instrument Repairers and Tuners,Musical Instrument Repairers and Tuners,0.335978835978836,7
+7313,Jewellery and precious-metal workers,51-9071,Jewelers and Precious Stone and Metal Workers,Jewelers and Precious Stone and Metal Workers,0.32195767195767194,7
+7314,Potters and related workers,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic","Molders, Shapers, and Casters, Except Metal and Plastic",0.16216931216931216,7
+7315,"Glass makers, cutters, grinders and finishers",51-9022,"Grinding and Polishing Workers, Hand","Grinding and Polishing Workers, Hand",0.16772486772486775,7
+7315,"Glass makers, cutters, grinders and finishers",51-9031,"Cutters and Trimmers, Hand","Cutters and Trimmers, Hand",0.24021164021164024,7
+7315,"Glass makers, cutters, grinders and finishers",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic","Molders, Shapers, and Casters, Except Metal and Plastic",0.16216931216931216,7
+7316,"Sign writers, decorative painters, engravers and etchers",51-9123,"Painting, Coating, and Decorating Workers","Painting, Coating, and Decorating Workers",0.2388888888888889,7
+7316,"Sign writers, decorative painters, engravers and etchers",51-9194,Etchers and Engravers,Etchers and Engravers,0.28544973544973545,7
+7318,"Handicraft workers in textile, leather and related materials",51-6041,Shoe and Leather Workers and Repairers,Shoe and Leather Workers and Repairers,0.22407407407407412,7
+7321,Pre-press technicians,51-5111,Prepress Technicians and Workers,Prepress Technicians and Workers,0.4902116402116402,7
+7322,Printers ,51-5112,Printing Press Operators,Printing Press Operators,0.26719576719576726,7
+7323,Print finishing and binding workers,51-5113,Print Binding and Finishing Workers,Print Binding and Finishing Workers,0.24867724867724866,7
+7411,Building and related electricians,47-2111,Electricians,Electricians,0.24814814814814815,7
+7411,Building and related electricians,47-2231,Solar Photovoltaic Installers,Solar Photovoltaic Installers,0.21613756613756616,7
+7412,Electrical mechanics and fitters,47-4021,Elevator Installers and Repairers,Elevator Installers and Repairers,0.24497354497354498,7
+7412,Electrical mechanics and fitters,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7412,Electrical mechanics and fitters,49-2092,"Electric Motor, Power Tool, and Related Repairers","Electric Motor, Power Tool, and Related Repairers",0.23121693121693124,7
+7412,Electrical mechanics and fitters,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Electrical and Electronics Installers and Repairers, Transportation Equipment",0.24973544973544973,7
+7412,Electrical mechanics and fitters,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.30449735449735454,7
+7412,Electrical mechanics and fitters,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.31269841269841264,7
+7412,Electrical mechanics and fitters,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles","Electronic Equipment Installers and Repairers, Motor Vehicles",0.26031746031746034,7
+7412,Electrical mechanics and fitters,49-2098,Security and Fire Alarm Systems Installers,Security and Fire Alarm Systems Installers,0.30925925925925923,7
+7412,Electrical mechanics and fitters,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,Outdoor Power Equipment and Other Small Engine Mechanics,0.23624338624338626,7
+7412,Electrical mechanics and fitters,49-9011,Mechanical Door Repairers,Mechanical Door Repairers,0.15132275132275133,7
+7412,Electrical mechanics and fitters,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door","Control and Valve Installers and Repairers, Except Mechanical Door",0.2838624338624338,7
+7412,Electrical mechanics and fitters,49-9031,Home Appliance Repairers,Home Appliance Repairers,0.24497354497354498,7
+7412,Electrical mechanics and fitters,49-9097,Signal and Track Switch Repairers,Signal and Track Switch Repairers,0.1867724867724868,7
+7413,Electrical line installers and repairers ,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7413,Electrical line installers and repairers ,49-9051,Electrical Power-Line Installers and Repairers,Electrical Power-Line Installers and Repairers,0.19444444444444445,7
+7421,Electronics mechanics and servicers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7421,Electronics mechanics and servicers,49-2011,"Computer, Automated Teller, and Office Machine Repairers","Computer, Automated Teller, and Office Machine Repairers",0.3703703703703704,7
+7421,Electronics mechanics and servicers,49-2091,Avionics Technicians,Avionics Technicians,0.42063492063492064,7
+7421,Electronics mechanics and servicers,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Electrical and Electronics Installers and Repairers, Transportation Equipment",0.24973544973544973,7
+7421,Electronics mechanics and servicers,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.30449735449735454,7
+7421,Electronics mechanics and servicers,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.31269841269841264,7
+7421,Electronics mechanics and servicers,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles","Electronic Equipment Installers and Repairers, Motor Vehicles",0.26031746031746034,7
+7422,Information and communications technology installers and servicers,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers","First-Line Supervisors of Mechanics, Installers, and Repairers",0.4603174603174603,7
+7422,Information and communications technology installers and servicers,49-2011,"Computer, Automated Teller, and Office Machine Repairers","Computer, Automated Teller, and Office Machine Repairers",0.3703703703703704,7
+7422,Information and communications technology installers and servicers,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairs","Radio, Cellular, and Tower Equipment Installers and Repairers",0.29391534391534396,7
+7422,Information and communications technology installers and servicers,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers","Telecommunications Equipment Installers and Repairers, Except Line Installers",0.2420634920634921,7
+7422,Information and communications technology installers and servicers,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Electrical and Electronics Installers and Repairers, Transportation Equipment",0.24973544973544973,7
+7422,Information and communications technology installers and servicers,49-9052,Telecommunications Line Installers and Repairers,Telecommunications Line Installers and Repairers,0.21164021164021163,7
+7422,Information and communications technology installers and servicers,49-2097,Electronic Home Entertainment Equipment Installers and Repairers,Electronic Home Entertainment Equipment Installers and Repairers,0.29735449735449737,7
+7511,"Butchers, fishmongers and related food preparers",51-3021,Butchers and Meat Cutters,Butchers and Meat Cutters,0.23201058201058203,7
+7511,"Butchers, fishmongers and related food preparers",51-3022,"Meat, Poultry, and Fish Cutters and Trimmers","Meat, Poultry, and Fish Cutters and Trimmers",0.21904761904761905,7
+7511,"Butchers, fishmongers and related food preparers",51-3023,Slaughterers and Meat Packers,Slaughterers and Meat Packers,0.0822751322751323,7
+7512,"Bakers, pastry-cooks and confectionery makers",51-3011,Bakers,Bakers,0.36507936507936506,7
+7513,Dairy-products makers,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.21322751322751324,7
+7514,"Fruit, vegetable and related preservers",51-3093,Food Cooking Machine Operators and Tenders,Food Cooking Machine Operators and Tenders,0.32671957671957674,7
+7515,Food and beverage tasters and graders,45-2011,Agricultural Inspectors,Agricultural Inspectors,0.4883597883597883,7
+7515,Food and beverage tasters and graders,45-2041,"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",0.21746031746031746,7
+7516,Tobacco preparers and tobacco products makers,45-2041,"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",0.21746031746031746,7
+7516,Tobacco preparers and tobacco products makers,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic","Molders, Shapers, and Casters, Except Metal and Plastic",0.16216931216931216,7
+7521,Wood treaters,51-9191,Adhesive Bonding Machine Operators and Tenders,Adhesive Bonding Machine Operators and Tenders,0.15052910052910057,7
+7522,Cabinet-makers and related workers,51-7011,Cabinetmakers and Bench Carpenters,Cabinetmakers and Bench Carpenters,0.13941798941798944,7
+7522,Cabinet-makers and related workers,51-7021,Furniture Finishers,Furniture Finishers,0.16296296296296298,7
+7522,Cabinet-makers and related workers,51-7031,"Model Makers, Wood","Model Makers, Wood",0.2783068783068783,7
+7523,Woodworking-machine tool setters and operators,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.17195767195767198,7
+7531,"Tailors, dressmakers, furriers and hatters",51-6052,"Tailors, Dressmakers, and Custom Sewers","Tailors, Dressmakers, and Custom Sewers",0.3298941798941799,7
+7532,Garment and related pattern-makers and cutters,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders","Textile Cutting Machine Setters, Operators, and Tenders",0.1952380952380952,7
+7532,Garment and related pattern-makers and cutters,51-6092,Fabric and Apparel Patternmakers,Fabric and Apparel Patternmakers,0.4023809523809524,7
+7532,Garment and related pattern-makers and cutters,51-9031,"Cutters and Trimmers, Hand","Cutters and Trimmers, Hand",0.24021164021164024,7
+7533,"Sewing, embroidery and related workers",49-9093,"Fabric Menders, Except Garment","Fabric Menders, Except Garment",0.1031746031746032,7
+7533,"Sewing, embroidery and related workers",51-6041,Shoe and Leather Workers and Repairers,Shoe and Leather Workers and Repairers,0.22407407407407412,7
+7533,"Sewing, embroidery and related workers",51-6051,"Sewers, Hand","Sewers, Hand",0.22089947089947093,7
+7534,Upholsterers and related workers,51-6093,Upholsterers,Upholsterers,0.1187830687830688,7
+7535,"Pelt dressers, tanners and fellmongers",45-2041,"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",0.21746031746031746,7
+7536,Shoemakers and related workers,51-6041,Shoe and Leather Workers and Repairers,Shoe and Leather Workers and Repairers,0.22407407407407412,7
+7541,Underwater divers,49-9092,Commercial Divers,Commercial Divers,0.20423280423280424,7
+7542,Shotfirers and blasters,47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters","Explosives Workers, Ordnance Handling Experts, and Blasters",0.23783068783068784,7
+7544,Fumigators and other pest and weed controllers,37-1012,"First-line Supervisor of Landscaping, Lawn Service, and Groundskeeping Workers","First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.3619047619047619,7
+8111,Miners and quarriers,47-5021,"Earth Drillers, Except Oil and Gas","Earth Drillers, Except Oil and Gas",0.2261904761904762,8
+8111,Miners and quarriers,47-5041,Continuous Mining Machine Operators,Continuous Mining Machine Operators,0.13201058201058202,8
+8111,Miners and quarriers,47-5042,Mine Cutting and Channeling Machine Operators,Mine Cutting and Channeling Machine Operators,0.15105820105820109,8
+8111,Miners and quarriers,47-5051,"Rock Splitters, Quarry","Rock Splitters, Quarry",0.06349206349206349,8
+8111,Miners and quarriers,47-5061,"Roof Bolters, Mining","Roof Bolters, Mining",0.06904761904761908,8
+8111,Miners and quarriers,53-7032,Excavating and Loading Machine and Dragline Operators,Excavating and Loading Machine and Dragline Operators,0.12962962962962962,8
+8111,Miners and quarriers,53-7033,"Loading Machine Operators, Underground Mining","Loading Machine Operators, Underground Mining",0.12275132275132279,8
+8112,Mineral and stone processing plant operators,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.18994708994708998,8
+8113,Well drillers and borers and related workers,47-5011,"Derrick Operators, Oil and Gas","Derrick Operators, Oil and Gas",0.1224867724867725,8
+8113,Well drillers and borers and related workers,47-5012,"Rotary Drill Operators, Oil and Gas","Rotary Drill Operators, Oil and Gas",0.25767195767195766,8
+8113,Well drillers and borers and related workers,47-5013,"Service Unit Operators, Oil, Gas, and Mining","Service Unit Operators, Oil, Gas, and Mining",0.20793650793650792,8
+8113,Well drillers and borers and related workers,47-5021,"Earth Drillers, Except Oil and Gas","Earth Drillers, Except Oil and Gas",0.2261904761904762,8
+8113,Well drillers and borers and related workers,47-5071,"Roustabouts, Oil and Gas","Roustabouts, Oil and Gas",0.09365079365079367,8
+8113,Well drillers and borers and related workers,53-7073,Wellhead Pumpers,Wellhead Pumpers,0.19973544973544977,8
+8114,"Cement, stone and other mineral products machine operators",51-8099,"Plant and System Operators, All Other","Plant and System Operators, All Other",0.27592592592592596,8
+8114,"Cement, stone and other mineral products machine operators",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders","Mixing and Blending Machine Setters, Operators, and Tenders",0.24153439153439155,8
+8121,Metal processing plant operators,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.13994708994709,8
+8121,Metal processing plant operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.17671957671957675,8
+8121,Metal processing plant operators,51-4051,Metal-Refining Furnace Operators and Tenders,Metal-Refining Furnace Operators and Tenders,0.1455026455026455,8
+8121,Metal processing plant operators,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.1806878306878307,8
+8122,"Metal finishing, plating and coating machine operators",51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.27142857142857146,8
+8122,"Metal finishing, plating and coating machine operators",51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.15211640211640215,8
+8131,Chemical products plant and machine operators,51-9011,Chemical Equipment Operators and Tenders,Chemical Equipment Operators and Tenders,0.3111111111111111,8
+8131,Chemical products plant and machine operators,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.21322751322751324,8
+8132,Photographic products machine operators,51-9151,Photographic Process Workers and Processing Machine Operators,Photographic Process Workers and Processing Machine Operators,0.35873015873015873,8
+8141,Rubber products machine operators,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.18941798941798946,8
+8141,Rubber products machine operators,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.2664021164021164,8
+8141,Rubber products machine operators,51-9197,Tire Builders,Tire Builders,0.10343915343915344,8
+8142,Plastic products machine operators,51-2091,Fiberglass Laminators and Fabricators,Fiberglass Laminators and Fabricators,0.1526455026455027,8
+8142,Plastic products machine operators,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.13994708994709,8
+8142,Plastic products machine operators,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.2574074074074074,8
+8142,Plastic products machine operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.17671957671957675,8
+8142,Plastic products machine operators,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.17460317460317462,8
+8142,Plastic products machine operators,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.1806878306878307,8
+8142,Plastic products machine operators,51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.27142857142857146,8
+8143,Paper products machine operators,51-9191,Adhesive Bonding Machine Operators and Tenders,Adhesive Bonding Machine Operators and Tenders,0.15052910052910057,8
+8151,"Fibre preparing, spinning and winding machine operators",51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.11560846560846562,8
+8152,Weaving and knitting machine operators,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.18465608465608468,8
+8154,"Bleaching, dyeing and fabric cleaning machine operators",51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,Textile Bleaching and Dyeing Machine Operators and Tenders,0.2462962962962963,8
+8156,Shoemaking and related machine operators,51-6042,Shoe Machine Operators and Tenders,Shoe Machine Operators and Tenders,0.21216931216931217,8
+8157,Laundry machine operators,51-6011,Laundry and Dry-Cleaning Workers,Laundry and Dry-Cleaning Workers,0.2552910052910053,8
+8160,Food and related products machine operators,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.2814814814814815,8
+8160,Food and related products machine operators,51-3092,Food Batchmakers,Food Batchmakers,0.3775132275132275,8
+8160,Food and related products machine operators,51-3093,Food Cooking Machine Operators and Tenders,Food Cooking Machine Operators and Tenders,0.32671957671957674,8
+8160,Food and related products machine operators,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.18941798941798946,8
+8160,Food and related products machine operators,51-9193,Cooling and Freezing Equipment Operators and Tenders,Cooling and Freezing Equipment Operators and Tenders,0.21772486772486777,8
+8171,Pulp and papermaking plant operators,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.1931216931216931,8
+8171,Pulp and papermaking plant operators,51-9196,"Paper Goods Machine Setters, Operators, and Tenders","Paper Goods Machine Setters, Operators, and Tenders",0.24788359788359787,8
+8172,Wood processing plant operators,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood","Sawing Machine Setters, Operators, and Tenders, Wood",0.15582010582010586,8
+8181,Glass and ceramics plant operators,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.18941798941798946,8
+8181,Glass and ceramics plant operators,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic","Molders, Shapers, and Casters, Except Metal and Plastic",0.16216931216931216,8
+8182,Steam engine and boiler operators,51-8021,Stationary Engineers and Boiler Operators,Stationary Engineers and Boiler Operators,0.337037037037037,8
+8183,"Packing, bottling and labelling machine operators",51-9111,Packaging and Filling Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,0.22301587301587306,8
+8189,Stationary plant and machine operators not elsewhere classified,51-9141,Semiconductor Processors,Semiconductor Processors,0.3018518518518518,8
+8189,Stationary plant and machine operators not elsewhere classified,51-9191,Adhesive Bonding Machine Operators and Tenders,Adhesive Bonding Machine Operators and Tenders,0.15052910052910057,8
+8189,Stationary plant and machine operators not elsewhere classified,51-9193,Cooling and Freezing Equipment Operators and Tenders,Cooling and Freezing Equipment Operators and Tenders,0.21772486772486777,8
+8189,Stationary plant and machine operators not elsewhere classified,53-7011,Conveyor Operators and Tenders,Conveyor Operators and Tenders,0.26666666666666666,8
+8211,Mechanical machinery assemblers,51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.24523809523809523,8
+8211,Mechanical machinery assemblers,51-2031,Engine and Other Machine Assemblers,Engine and Other Machine Assemblers,0.21402116402116406,8
+8212,Electrical and electronic equipment assemblers,51-2022,Electrical and Electronic Equipment Assemblers,Electrical and Electronic Equipment Assemblers,0.29153439153439153,8
+8212,Electrical and electronic equipment assemblers,51-2023,Electromechanical Equipment Assemblers,Electromechanical Equipment Assemblers,0.31798941798941793,8
+8212,Electrical and electronic equipment assemblers,51-2093,Timing Device Assemblers and Adjusters,Timing Device Assemblers and Adjusters,0.3224867724867725,8
+8212,Electrical and electronic equipment assemblers,51-9194,Etchers and Engravers,Etchers and Engravers,0.28544973544973545,8
+8219,Assemblers not elsewhere classified,51-2092,Team Assemblers,Team Assemblers,0.2703703703703704,8
+8311,Locomotive engine drivers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8311,Locomotive engine drivers,53-4011,Locomotive Engineers,Locomotive Engineers,0.24814814814814815,8
+8311,Locomotive engine drivers,53-4012,Locomotive Firers,Locomotive Firers,0.20661375661375664,8
+8311,Locomotive engine drivers,53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers","Rail Yard Engineers, Dinkey Operators, and Hostlers",0.2203703703703704,8
+8311,Locomotive engine drivers,53-4041,Subway and Streetcar Operators,Subway and Streetcar Operators,0.24894179894179894,8
+8311,Locomotive engine drivers,53-7111,Mine Shuttle Car Operators,Mine Shuttle Car Operators,0.09444444444444443,8
+8312,"Railway brake, signal and switch operators",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8312,"Railway brake, signal and switch operators",53-4021,"Railroad Brake, Signal, and Switch Operators","Railroad Brake, Signal, and Switch Operators",0.14497354497354498,8
+8312,"Railway brake, signal and switch operators",53-4031,Railroad Conductors and Yardmasters,Railroad Conductors and Yardmasters,0.3373015873015873,8
+8321,Motorcycle drivers,43-5021,Couriers and Messengers,Couriers and Messengers,0.24656084656084656,8
+8321,Motorcycle drivers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8322,"Car, taxi and van drivers",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8322,"Car, taxi and van drivers",53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.26719576719576726,8
+8322,"Car, taxi and van drivers",53-3033,Light Truck or Delivery Services Drivers,Light Truck or Delivery Services Drivers,0.17301587301587304,8
+8322,"Car, taxi and van drivers",53-3041,Taxi Drivers and Chauffeurs,Taxi Drivers and Chauffeurs,0.24232804232804236,8
+8331,Bus and tram drivers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8331,Bus and tram drivers,53-3021,"Bus Drivers, Transit and Intercity ","Bus Drivers, Transit and Intercity",0.2126984126984127,8
+8331,Bus and tram drivers,53-3022,"Bus Drivers, School or Special Client ","Bus Drivers, School or Special Client",0.2976190476190476,8
+8331,Bus and tram drivers,53-4041,Subway and Streetcar Operators,Subway and Streetcar Operators,0.24894179894179894,8
+8332,Heavy truck and lorry drivers,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8332,Heavy truck and lorry drivers,53-3032,Heavy and Tractor-Trailer Truck Drivers,Heavy and Tractor-Trailer Truck Drivers,0.12010582010582015,8
+8341,Mobile farm and forestry plant operators,45-2091,Agricultural Equipment Operators,Agricultural Equipment Operators,0.16243386243386246,8
+8341,Mobile farm and forestry plant operators,45-4022,Logging Equipment Operators,Logging Equipment Operators,0.13201058201058202,8
+8342,Earthmoving and related plant operators,47-2071,"Paving, Surfacing, and Tamping Equipment Operators","Paving, Surfacing, and Tamping Equipment Operators",0.1457671957671958,8
+8342,Earthmoving and related plant operators,47-2072,Pile-Driver Operators,Pile-Driver Operators,0.10555555555555556,8
+8342,Earthmoving and related plant operators,47-2073,Operating Engineers and Other Construction Equipment Operators,Operating Engineers and Other Construction Equipment Operators,0.1798941798941799,8
+8342,Earthmoving and related plant operators,53-7031,Dredge Operators,Dredge Operators,0.1582010582010582,8
+8342,Earthmoving and related plant operators,53-7032,Excavating and Loading Machine and Dragline Operators,Excavating and Loading Machine and Dragline Operators,0.12962962962962962,8
+8343,"Crane, hoist and related plant operators",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8343,"Crane, hoist and related plant operators",53-6011,Bridge and Lock Tenders,Bridge and Lock Tenders,0.2791005291005291,8
+8343,"Crane, hoist and related plant operators",53-7021,Crane and Tower Operators,Crane and Tower Operators,0.13280423280423279,8
+8343,"Crane, hoist and related plant operators",53-7041,Hoist and Winch Operators,Hoist and Winch Operators,0.19232804232804235,8
+8344,Lifting truck operators,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,8
+8350,Ships' deck crews and related workers,53-5011,Sailors and Marine Oilers,Sailors and Marine Oilers,0.1547619047619048,8
+8350,Ships' deck crews and related workers,53-5022,Motorboat Operators,Motorboat Operators,0.1791005291005291,8
+9111,Domestic cleaners and helpers,37-2012,Maids and Housekeeping Cleaners,Maids and Housekeeping Cleaners,0.21772486772486777,9
+9112,"Cleaners and helpers in offices, hotels and other establishments",37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.20132275132275135,9
+9112,"Cleaners and helpers in offices, hotels and other establishments",37-2012,Maids and Housekeeping Cleaners,Maids and Housekeeping Cleaners,0.21772486772486777,9
+9112,"Cleaners and helpers in offices, hotels and other establishments",53-7061,Cleaners of Vehicles and Equipment,Cleaners of Vehicles and Equipment,0.08439153439153443,9
+9121,Hand launderers and pressers,51-6021,"Pressers, Textile, Garment, and Related Materials","Pressers, Textile, Garment, and Related Materials",0.0,9
+9122,Vehicle cleaners,53-7061,Cleaners of Vehicles and Equipment,Cleaners of Vehicles and Equipment,0.08439153439153443,9
+9129,Other cleaning workers,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,Septic Tank Servicers and Sewer Pipe Cleaners,0.15714285714285717,9
+9211,Crop farm labourers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.11164021164021168,9
+9212,Livestock farm labourers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",0.2023809523809524,9
+9213,Mixed crop and livestock farm labourers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.11164021164021168,9
+9213,Mixed crop and livestock farm labourers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",0.2023809523809524,9
+9214,Garden and horticultural labourers,37-3011,Landscaping and Groundskeeping Workers,Landscaping and Groundskeeping Workers,0.052380952380952424,9
+9214,Garden and horticultural labourers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.11164021164021168,9
+9216,Fishery and aquaculture labourers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals","Farmworkers, Farm, Ranch, and Aquacultural Animals",0.2023809523809524,9
+9216,Fishery and aquaculture labourers,45-3011,Fishers and Related Fishing Workers,Fishers and Related Fishing Workers,0.09074074074074079,9
+9311,Mining and quarrying labourers,47-5081,Helpers--Extraction Workers,Helpers--Extraction Workers,0.0746031746031746,9
+9312,Civil engineering labourers,47-4051,Highway Maintenance Workers,Highway Maintenance Workers,0.15132275132275133,9
+9312,Civil engineering labourers,47-4061,Rail-Track Laying and Maintenance Equipment Operators,Rail-Track Laying and Maintenance Equipment Operators,0.09444444444444443,9
+9313,Building construction labourers,47-2061,Construction Laborers,Construction Laborers,0.1187830687830688,9
+9313,Building construction labourers,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.008465608465608473,9
+9313,Building construction labourers,47-3012,Helpers--Carpenters,Helpers--Carpenters,0.12804232804232804,9
+9313,Building construction labourers,47-3013,Helpers--Electricians,Helpers--Electricians,0.1082010582010582,9
+9313,Building construction labourers,47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.03783068783068783,9
+9313,Building construction labourers,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.10370370370370373,9
+9313,Building construction labourers,47-3016,Helpers--Roofers,Helpers--Roofers,0.04920634920634925,9
+9321,Hand packers,53-7064,"Packers and Packagers, Hand","Packers and Packagers, Hand",0.17486772486772487,9
+9329,Manufacturing labourers not elsewhere classified,51-9198,Helpers--Production Workers,Helpers--Production Workers,0.13201058201058202,9
+9329,Manufacturing labourers not elsewhere classified,51-9199,"Production Workers, All Other","Production Workers, All Other",0.12989417989417992,9
+9329,Manufacturing labourers not elsewhere classified,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand","Laborers and Freight, Stock, and Material Movers, Hand",0.0941798941798942,9
+9329,Manufacturing labourers not elsewhere classified,53-7063,Machine Feeders and Offbearers,Machine Feeders and Offbearers,0.2224867724867725,9
+9331,Hand and pedal vehicle drivers,43-5021,Couriers and Messengers,Couriers and Messengers,0.24656084656084656,9
+9333,Freight handlers,53-1011,Aircraft Cargo Handling Supervisors,Aircraft Cargo Handling Supervisors,0.29179894179894184,9
+9333,Freight handlers,53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0.526984126984127,9
+9333,Freight handlers,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand","Laborers and Freight, Stock, and Material Movers, Hand",0.0941798941798942,9
+9333,Freight handlers,53-7121,"Tank Car, Truck, and Ship Loaders","Tank Car, Truck, and Ship Loaders",0.11931216931216933,9
+9411,Fast food preparers,35-2011,"Cooks, Fast Food","Cooks, Fast Food",0.387037037037037,9
+9411,Fast food preparers,35-2015,"Cooks, Short Order","Cooks, Short Order",0.3404761904761905,9
+9412,Kitchen helpers,35-2021,Food Preparation Workers,Food Preparation Workers,0.24338624338624337,9
+9412,Kitchen helpers,35-9021,Dishwashers,Dishwashers,0.07751322751322755,9
+9520,Street vendors (excluding food),41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",0.8902116402116402,9
+9611,Garbage and recycling collectors,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.5084656084656085,9
+9611,Garbage and recycling collectors,53-7081,Refuse and Recyclable Material Collectors,Refuse and Recyclable Material Collectors,0.15634920634920638,9
+9612,Refuse sorters,53-7081,Refuse and Recyclable Material Collectors,Refuse and Recyclable Material Collectors,0.15634920634920638,9
+9621,"Messengers, package deliverers and luggage porters",39-6011,Baggage Porters and Bellhops,Baggage Porters and Bellhops,0.24867724867724866,9
+9621,"Messengers, package deliverers and luggage porters",43-5021,Couriers and Messengers,Couriers and Messengers,0.24656084656084656,9
+9622,Odd job persons,49-9098,"Helpers--Installation, Maintenance, and Repair Workers","Helpers--Installation, Maintenance, and Repair Workers",0.14100529100529102,9
+9623,Meter readers and vending-machine collectors,43-5041,"Meter Readers, Utilities","Meter Readers, Utilities",0.21878306878306883,9
+9623,Meter readers and vending-machine collectors,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers","Coin, Vending, and Amusement Machine Servicers and Repairers",0.26507936507936514,9
+9624,Water and firewood collectors,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand","Laborers and Freight, Stock, and Material Movers, Hand",0.0941798941798942,9
+9629,Elementary workers not elsewhere classified,39-3021,Motion Picture Projectionists,Motion Picture Projectionists,0.3187830687830688,9
+9629,Elementary workers not elsewhere classified,39-3031,"Ushers, Lobby Attendants, and Ticket Takers","Ushers, Lobby Attendants, and Ticket Takers",0.4611111111111111,9
+9629,Elementary workers not elsewhere classified,53-6021,Parking Lot Attendants,Parking Lot Attendants,0.21587301587301588,9
