@@ -1,0 +1,23 @@
+                                        Model Comparison                                       
+===============================================================================================
+                             Model 1: Productivity Model 2: Output (GVA) Model 3: Labor (Hours)
+-----------------------------------------------------------------------------------------------
+Dep. Variable               log_labor_productivity               log_gva              log_hours
+Estimator                                 PanelOLS              PanelOLS               PanelOLS
+No. Observations                             10589                 10589                  10589
+Cov. Est.                                Clustered             Clustered              Clustered
+R-squared                                   0.0002                0.0179                 0.0381
+R-Squared (Within)                         -0.0127                0.0518                -0.0785
+R-Squared (Between)                        -0.0015                0.0063                 0.0050
+R-Squared (Overall)                        -0.0016                0.0063                 0.0050
+F-statistic                                 2.0422                181.62                 394.30
+P-value (F-stat)                            0.1530                0.0000                 0.0000
+=====================     ========================           ===========            ===========
+Treat_x_Post                               -0.0474             0.4986***              0.5460***
+                                         (-0.6572)              (6.0422)               (9.7115)
+======================= ==========================         =============          =============
+Effects                                     Entity                Entity                 Entity
+                                              Time                  Time                   Time
+-----------------------------------------------------------------------------------------------
+
+T-stats reported in parentheses
