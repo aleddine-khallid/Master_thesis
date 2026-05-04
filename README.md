@@ -13,12 +13,8 @@ Econometric Model: Employed a fixed effect model with a Difference-in- differenc
 The Findings: Contrary to the "job replacement" narrative, the data shows no immediate spike in labor productivity. Instead, the analysis reveals a scale effect: highly exposed industries expanded, seeing significant increases in both Real Gross Value Added and total hours worked compared to low-exposure sectors.
 
 # Project Structure
-src/: Core Python scripts for data cleaning and econometric modeling.
-
-notebooks/: Jupyter notebooks containing exploratory data analysis (EDA) and initial regressions.
-
-data/: Raw and Processed datasets
-
-figures/: Key visualizations and regression output plots.
-
-tables/: Summary statistics
+* **`src/`**: Core Python scripts for data cleaning and econometric modeling.
+* **`notebooks/`**: Jupyter notebooks containing exploratory data analysis (EDA) and initial regressions.
+* **`data/`**: Raw and Processed datasets.
+* **`figures/`**: Key visualizations and regression output plots.
+* **`tables/`**: Summary statistics.
